@@ -1,0 +1,896 @@
+,Unnamed: 0,Name,Station,FirstCategory,SecondCategory,TotalRating,ReviewNum,Lat,Long,Category,DinnerPriceLow,DinnerPriceHigh,LunchPriceLow,LunchPriceHigh
+0,1,Orudeidainingurajou  ,Kyoto,Buffet style,Cafe,3.39,56,34.9861751483108,135.761313932311,Buffet style Cafe,￥4000,￥4999,￥2000,￥2999
+1,2,Steak Frites Gaspard zinzin  ,Karasuma,Bistro,Steak,3.18,70,35.0058257987896,135.759856759688,Bistro Steak,￥3000,￥3999,￥1000,￥1999
+2,3,KAZUMA  ,Sanjo,Izakaya (Tavern),Japanese food (other),3.28,7,35.0065825659963,135.770246695295,Izakaya (Tavern) Japanese food (other),￥3000,￥3999,,
+3,4,okonomiyakiteppanyakimiki  ,Tambaguchi,Okonomiyaki,Izakaya (Tavern),3.14,16,34.9959244331732,135.748266511467,Okonomiyaki Izakaya (Tavern),￥3000,￥3999,,
+4,5,Shaofeiyan  ,Kyoto Shiyakusho Mae,Chinese hot pot / fire pot,Chinese,3.16,23,35.00790072262,135.768201804433,Chinese hot pot / fire pot Chinese,￥4000,￥4999,￥1000,￥1999
+5,6,okuta-va  ,Kyoto,Bar,Italian,3.08,24,34.9834970882448,135.760559396056,Bar Italian,￥4000,￥4999,￥1000,￥1999
+6,7,Resort dining&bar HaLe  ,Sanjo,Italian,Bar,3.04,22,35.0071947091437,135.769468120661,Italian Bar,￥3000,￥3999,￥1000,￥1999
+7,8,Sumika  ,Kawaramachi,Izakaya (Tavern),Creative cuisine,3.34,23,35.0047040863454,135.770182117381,Izakaya (Tavern) Creative cuisine,￥3000,￥3999,,
+8,9,Gayagaya  ,Sanjo,Izakaya (Tavern),Bar,3.03,3,35.0071741645137,135.76996780233,Izakaya (Tavern) Bar,￥3000,￥3999,,
+9,10,Ishibekoujimamecha  ,Gion Shijo,Izakaya (Tavern),Kyoto Cuisine,3.56,92,35.0008130609394,135.779155387735,Izakaya (Tavern) Kyoto Cuisine,￥4000,￥4999,,
+10,11,nagoyako-chintokoshitsuizakayatorisai  ,Sanjo,Izakaya (Tavern),Japanese food (other),3.04,4,35.0073957953599,135.769274238615,Izakaya (Tavern) Japanese food (other),￥3000,￥3999,,
+11,12,Gionabesu  ,Gion Shijo,French,Italian,3.58,120,35.0019536965639,135.774821250723,French Italian,￥8000,￥9999,￥6000,￥7999
+12,13,nishikimachinoakarishoutengai  ,Karasuma,Izakaya (Tavern),Bar,3.0,2,35.0051631289148,135.76197633639,Izakaya (Tavern) Bar,￥2000,￥2999,￥2000,￥2999
+13,14,gionni-yongo  ,Sanjo Keihan,Italian,French,3.85,39,35.0063010233471,135.775622650675,Italian French,￥10000,￥14999,￥6000,￥7999
+14,15,Mumon  ,Karasuma Oike,Shabu Shabu (Japanese Steamboat),Fugu (Blowfish),3.05,13,35.0093348325975,135.757835377113,Shabu Shabu (Japanese Steamboat) Fugu (Blowfish),￥5000,￥5999, ,￥999
+15,16,itariandainingutoreotto  ,Saiin,Italian,Dining bar,3.04,2,35.0037285790702,135.731255064949,Italian Dining bar,￥3000,￥3999,,
+16,17,Sukiyakisunibiizakayahokuto  ,Kyoto,Sukiyaki,Yakitori (Grilled chicken),3.09,19,34.9890645141595,135.758604579846,Sukiyaki Yakitori (Grilled chicken),￥3000,￥3999,,
+17,18,Sakaean  ,Karasuma,Izakaya (Tavern),Nihonshu (Japanese sake),3.09,31,35.0046837389483,135.762414099884,Izakaya (Tavern) Nihonshu (Japanese sake),￥2000,￥2999, ,￥999
+18,19,biakicchinnikubarujikabiyajikabiya  ,Kawaramachi,Bar,Izakaya (Tavern),3.06,21,35.0062692440335,135.768979037223,Bar Izakaya (Tavern),￥3000,￥3999,￥1000,￥1999
+19,20,ANAGOYA NORESORE  ,Nijojo Mae,Izakaya (Tavern),Seafood,3.5,16,35.0125846891279,135.753619466503,Izakaya (Tavern) Seafood,￥5000,￥5999,￥2000,￥2999
+20,21,bejo-tamucho  ,Shijo,Spain,Izakaya (Tavern),3.16,18,35.0013862396802,135.757912125595,Spain Izakaya (Tavern),￥3000,￥3999,,
+21,22,TENTATION  ,Sanjo,Bistro,Italian,3.06,3,35.009557804073,135.770289888056,Bistro Italian,￥4000,￥4999,,
+22,23,Izakayariraku  ,Karasuma,Yakitori (Grilled chicken),Fowl,3.03,24,35.0025714742237,135.762694729386,Yakitori (Grilled chicken) Fowl,￥3000,￥3999,,
+23,24,kyoutohyouto  ,Karasuma,Pork Shabu Shabu,Shabu Shabu (Japanese Steamboat),3.64,46,35.0055907972466,135.758329397355,Pork Shabu Shabu Shabu Shabu (Japanese Steamboat),￥8000,￥9999,￥2000,￥2999
+24,25,Robatayagaburi  ,Karasuma,Izakaya (Tavern),Seafood,3.09,16,35.00651710655,135.759445373136,Izakaya (Tavern) Seafood,￥4000,￥4999,,
+25,26,Kushiyachouemon  ,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),3.03,10,35.0050884162122,135.762063832564,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999, ,￥999
+26,27,Torattoriaviare  ,Kiyomizu Gojo,Italian,Western Cuisine,3.44,33,34.9985422700966,135.767682833969,Italian Western Cuisine,￥5000,￥5999,￥1000,￥1999
+27,28,Komefuku  ,Sanjo,Tempura,Seafood,3.06,10,35.0082946127223,135.770683246881,Tempura Seafood,￥3000,￥3999,,
+28,29,Togiya  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Chinese,3.08,23,35.0118284045243,135.770861402716,Izakaya (Tavern) Chinese,￥3000,￥3999,￥1000,￥1999
+29,30,kushiyakimanten  ,Sanjo,Yakitori (Grilled chicken),Kyoto Cuisine,3.35,14,35.0079613206178,135.771002680142,Yakitori (Grilled chicken) Kyoto Cuisine,￥3000,￥3999,,
+30,31,Kurogewagyuutenshou  ,Marutamachi,Yakiniku (BBQ Beef),Sukiyaki,3.5,13,35.0146637512369,135.760364643926,Yakiniku (BBQ Beef) Sukiyaki,￥5000,￥5999, ,￥999
+31,32,Chizutakkarubikoshitsubaruvino  ,Sanjo,Izakaya (Tavern),Dining bar,3.17,10,35.0073894081148,135.769329234342,Izakaya (Tavern) Dining bar,￥2000,￥2999,,
+32,33,teppandainingukyoushikian  ,Gion Shijo,Teppanyaki,Steak,3.06,16,35.0050871864524,135.771166409986,Teppanyaki Steak,￥5000,￥5999,,
+33,34,Yasuma  ,Kawaramachi,Izakaya (Tavern),Kyoto Cuisine,3.02,26,35.004371682583,135.769744061055,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+34,35,In the Soup.  ,Gion Shijo,Bar,Bistro,3.02,5,35.004126761561,135.772765765823,Bar Bistro,￥3000,￥3999,￥1000,￥1999
+35,36,Gionyakinikukokoro  ,Gion Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06,5,35.0056702531591,135.775375200267,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,,
+36,37,daininguba-daburyu-  ,Gion Shijo,Kappo (Traditional Japanese),Steak,3.25,17,35.0051366514701,135.772647118069,Kappo (Traditional Japanese) Steak,￥4000,￥4999,,
+37,38,Kyoutodaina  ,Karasuma,Bistro,Bar,3.54,82,35.0053067461152,135.763880776774,Bistro Bar,￥3000,￥3999,￥2000,￥2999
+38,39,Zasoudouhigashiyamakyouto  ,Gion Shijo,Italian,Pasta,3.61,272,34.9988963304625,135.779667933418,Italian Pasta,￥6000,￥7999,￥2000,￥2999
+39,40,Gokyou  ,Jujo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.04,2,34.9754043250388,135.759545963938,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999,,
+40,41,Ichifuji  ,Shijo,Izakaya (Tavern),Kappo (Traditional Japanese),3.05,12,35.0013745798691,135.758233210577,Izakaya (Tavern) Kappo (Traditional Japanese),￥4000,￥4999,,
+41,42,Tsukihikarasuma  ,Shijo,Izakaya (Tavern),Creative cuisine,3.17,35,35.0014042831755,135.757332172929,Izakaya (Tavern) Creative cuisine,￥4000,￥4999,￥1000,￥1999
+42,43,Kyoutotempuraendou  ,Higashiyama,Tempura,Kaiseki (Traditional Japanese),3.55,6,35.016166715603,135.78025014546,Tempura Kaiseki (Traditional Japanese),￥10000,￥14999,￥5000,￥5999
+43,44,Resutoraniro  ,Karasuma,Izakaya (Tavern),Creative cuisine,3.08,31,35.0029150541461,135.763259341262,Izakaya (Tavern) Creative cuisine,￥4000,￥4999,,
+44,45,Shuteimichiya  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.06,1,35.0133219216821,135.758725397401,Izakaya (Tavern) Seafood,￥5000,￥5999, ,￥999
+45,46,Trattoria La Pace  ,Karasuma,Italian,Pizza,3.51,52,35.0052600869409,135.763347606931,Italian Pizza,￥4000,￥4999,￥1000,￥1999
+46,47,Izakayabambu  ,Kyoto,Izakaya (Tavern),Kappo (Traditional Japanese),3.02,20,34.98456517764,135.753134407968,Izakaya (Tavern) Kappo (Traditional Japanese),￥3000,￥3999,,
+47,48,Peppa  ,Kawaramachi,Okinawan Cuisine,Izakaya (Tavern),3.08,11,35.0051163351892,135.770318423513,Okinawan Cuisine Izakaya (Tavern),￥3000,￥3999,,
+48,49,Banikuryourisemmontenumayarou  ,Kawaramachi,Yakiniku (BBQ Beef),Shabu Shabu (Japanese Steamboat),3.51,52,35.0047958114895,135.770292758504,Yakiniku (BBQ Beef) Shabu Shabu (Japanese Steamboat),￥3000,￥3999,,
+49,50,Teppanryourihanaroku  ,Gojo,Teppanyaki,Kyoto Cuisine,3.47,2,34.9934590606226,135.759549576809,Teppanyaki Kyoto Cuisine,￥10000,￥14999,,
+50,51,Kyoutohanabi  ,Karasuma,Izakaya (Tavern),Japanese food (other),3.12,25,35.0026723205949,135.762557509078,Izakaya (Tavern) Japanese food (other),￥2000,￥2999,,
+51,52,Kyoutohananomai  ,Kyoto,Izakaya (Tavern),Seafood,3.04,11,34.9867909098527,135.760974487706,Izakaya (Tavern) Seafood,￥3000,￥3999, ,￥999
+52,53,pontochoutanrakuyatoriume  ,Sanjo,Yakitori (Grilled chicken),Izakaya (Tavern),3.05,7,35.0076732995129,135.771211287189,Yakitori (Grilled chicken) Izakaya (Tavern),￥4000,￥4999,,
+53,54,Osakanadekoboko  ,Kyoto,Izakaya (Tavern),Seafood,3.42,18,34.9897025458045,135.761142673015,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+54,55,Sunny  ,Sanjo,Dining bar,Steak,3.48,39,35.0088126166557,135.770899871707,Dining bar Steak,￥3000,￥3999,￥1000,￥1999
+55,56,Gochiya  ,Kyoto,Izakaya (Tavern),Creative cuisine,3.18,33,34.9884404609588,135.761279108682,Izakaya (Tavern) Creative cuisine,￥3000,￥3999, ,￥999
+56,57,Shusaijoujou  ,Kyoto,Creative cuisine,Izakaya (Tavern),3.03,12,34.9883648466884,135.755297868851,Creative cuisine Izakaya (Tavern),￥5000,￥5999,,
+57,58,o-rudeidainingukaza  ,Kyoto,Buffet style,Cafe,3.41,15,34.9861608292917,135.752504109069,Buffet style Cafe,￥4000,￥4999,￥2000,￥2999
+58,59,Yakinikudainingukinoe  ,Kyoto Shiyakusho Mae,Yakiniku (BBQ Beef),Korean cuisine,3.58,39,35.0122604635406,135.764163605741,Yakiniku (BBQ Beef) Korean cuisine,￥5000,￥5999,,
+59,60,Manjirou  ,Gion Shijo,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.57,57,35.0017457541648,135.780026105812,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥10000,￥14999,￥3000,￥3999
+60,61,Sakayaagurema  ,Sanjo,Izakaya (Tavern),Sukiyaki,3.03,9,35.0094078177675,135.770155461682,Izakaya (Tavern) Sukiyaki,￥4000,￥4999,,
+61,62,chuugokuryourichimmin  ,Gion Shijo,Chinese,Dim sum,3.5,44,35.0041359664734,135.775011689987,Chinese Dim sum,￥5000,￥5999,￥1000,￥1999
+62,63,Hanasaki  ,Karasuma,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.58,30,35.0043996209478,135.763205991643,Kyoto Cuisine Kaiseki (Traditional Japanese),￥10000,￥14999,￥4000,￥4999
+63,64,nikushokusakabagaru  ,Gion Shijo,Bar,Sumibiyaki,3.04,11,35.0048216518419,135.77073951322,Bar Sumibiyaki,￥4000,￥4999, ,￥999
+64,65,furenchidainingutoppuobukyouto  ,Kyoto,French,Restaurants (other),3.07,33,34.9861624957947,135.752504942257,French Restaurants (other),￥10000,￥14999,￥5000,￥5999
+65,66,takaradoukarasuma  ,Shijo,Izakaya (Tavern),Sukiyaki,3.05,4,35.0025347092754,135.756842994842,Izakaya (Tavern) Sukiyaki,￥3000,￥3999,,
+66,67,Ikedayahananomai  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Kyoto Cuisine,3.07,59,35.0088103660205,135.769259452492,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+67,68,Kyoutogiontempurayasakaendou  ,Gion Shijo,Tempura,Kaiseki (Traditional Japanese),3.68,252,34.9989145822574,135.77511164431,Tempura Kaiseki (Traditional Japanese),￥10000,￥14999,￥5000,￥5999
+68,69,Ryoumashamonoujou  ,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),3.0,27,34.9880182697134,135.7604672511,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,,
+69,70,Komefuku  ,Karasuma,Tempura,Ten-don (Tempura Bowl),3.55,140,35.0046062331496,135.761353080459,Tempura Ten-don (Tempura Bowl),￥2000,￥2999, ,￥999
+70,71,Gionkyouryourihanasaki  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.5,56,35.001987605201,135.776159471356,Kyoto Cuisine Kaiseki (Traditional Japanese),￥10000,￥14999,￥4000,￥4999
+71,72,Izakayashinoomiya  ,Shijo Omiya,Izakaya (Tavern),Kushi-age (Fried Skewer),3.14,30,35.0047962545949,135.747841693829,Izakaya (Tavern) Kushi-age (Fried Skewer),￥2000,￥2999,,
+72,73,Ittetsugurache  ,Karasuma,Yakiniku (BBQ Beef),Bar,3.52,33,35.0047036962275,135.762538484634,Yakiniku (BBQ Beef) Bar,￥3000,￥3999, ,￥999
+73,74,Ichishun  ,Kyoto,Izakaya (Tavern),Japanese food (other),3.53,72,34.9877799444932,135.7594723447,Izakaya (Tavern) Japanese food (other),￥4000,￥4999, ,￥999
+74,75,Nikokubaru  ,Keihan Yamashina,Izakaya (Tavern),Kushi-age (Fried Skewer),3.03,15,34.9906070184028,135.816001130938,Izakaya (Tavern) Kushi-age (Fried Skewer),￥2000,￥2999,,
+75,76,Teppansakuwan  ,Saiin,Teppanyaki,Izakaya (Tavern),3.04,1,35.0029211577045,135.730812638868,Teppanyaki Izakaya (Tavern),￥3000,￥3999,,
+76,77,RIGOLETTO SMOKE GRILL & BAR  ,Gion Shijo,Italian,Spain,3.52,113,35.0023853402133,135.776146676328,Italian Spain,￥4000,￥4999,￥1000,￥1999
+77,78,Kugurinaberoppakuya  ,Karasuma,Izakaya (Tavern),Japanese food (other),3.08,19,35.0043845208436,135.757382587083,Izakaya (Tavern) Japanese food (other),￥4000,￥4999,,
+78,79,Kyouryouritategami  ,Marutamachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.51,11,35.0176544080438,135.752669034239,Kyoto Cuisine Kaiseki (Traditional Japanese),￥6000,￥7999,￥2000,￥2999
+79,80,Pontochourobin  ,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.48,66,35.007637467664,135.771076855559,Kyoto Cuisine Kaiseki (Traditional Japanese),￥6000,￥7999,,
+80,81,BELLOTA concha  ,Kawaramachi,Spain,Italian,3.16,23,35.0028287148498,135.764830752759,Spain Italian,￥3000,￥3999,￥1000,￥1999
+81,82,Bejitejiya  ,Gion Shijo,Yakiniku (BBQ Beef),Korean cuisine,3.11,46,35.0035395378738,135.77026258034,Yakiniku (BBQ Beef) Korean cuisine,￥3000,￥3999,,
+82,83,Matsuzakagyuuwattsuzakicchin  ,Gion Shijo,Steak,Sushi,3.06,4,35.006283478163,135.772928430793,Steak Sushi,￥10000,￥14999,,
+83,84,Sushidokoroima  ,Katsura,Sushi,Seafood,3.53,13,34.979850486332,135.710131252004,Sushi Seafood,￥6000,￥7999,,
+84,85,Maribuagaru  ,Karasuma,Izakaya (Tavern),Japanese food (other),3.1,24,35.0026827391119,135.761237630186,Izakaya (Tavern) Japanese food (other),￥3000,￥3999,,
+85,86,Italian bar Lugol  ,Karasuma Oike,Italian,Pasta,3.03,28,35.0111876696183,135.756670110802,Italian Pasta,￥2000,￥2999, ,￥999
+86,87,Takishokudou  ,Shijo,Dining bar,Izakaya (Tavern),3.02,3,35.0026330051004,135.755297563109,Dining bar Izakaya (Tavern),￥3000,￥3999,,
+87,88,Bar Pleasure  ,Kawaramachi,Bar,Wine bar,3.0,2,35.0061886218041,135.764668287831,Bar Wine bar,￥2000,￥2999,,
+88,89,Sou  ,Shijo,Izakaya (Tavern),Creative cuisine,3.55,44,35.0048177708664,135.755266076244,Izakaya (Tavern) Creative cuisine,￥4000,￥4999,,
+89,90,Kaisenizakayamatsurishungyotokyouyasaitoosakenoomise  ,Kawaramachi,Izakaya (Tavern),Seafood,3.03,7,35.0040092787709,135.770300805123,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+90,91,Momojirou  ,Fukakusa,Izakaya (Tavern),Chanko Nabe (Sumo Wrestlers Hot Pot),3.04,8,34.9628166529074,135.768027505772,Izakaya (Tavern) Chanko Nabe (Sumo Wrestlers Hot Pot),￥3000,￥3999,,
+91,92,Yakinikusakayaisshin  ,Rokujizo,Yakiniku (BBQ Beef),Izakaya (Tavern),3.1,8,34.9322720261464,135.793188766907,Yakiniku (BBQ Beef) Izakaya (Tavern),￥6000,￥7999,,
+92,93,Kyouhonoka  ,Sanjo,Izakaya (Tavern),Creative cuisine,3.01,12,35.0090850753986,135.770206305652,Izakaya (Tavern) Creative cuisine,￥3000,￥3999,,
+93,94,Ampan  ,Karasuma Oike,Korean cuisine,Yakiniku (BBQ Beef),3.08,20,35.0085107284906,135.756370536711,Korean cuisine Yakiniku (BBQ Beef),￥3000,￥3999,￥1000,￥1999
+94,95,rino  ,Karasuma Oike,Italian,Pasta,3.2,10,35.0131424729159,135.757379128582,Italian Pasta,￥6000,￥7999,￥1000,￥1999
+95,96,REAL NETA DINING ICHIZ  ,Tambaguchi,Italian,Izakaya (Tavern),3.05,14,34.9929450895897,135.735796850912,Italian Izakaya (Tavern),￥4000,￥4999, ,￥999
+96,97,nikubaruginjirou  ,Gion Shijo,Bar,Steak,3.06,7,35.0042653266744,135.770980907676,Bar Steak,￥3000,￥3999,,
+97,98,Kushikatsutanaka  ,Saiin,Kushi-age (Fried Skewer),Izakaya (Tavern),3.02,3,35.0037849596386,135.73112396213,Kushi-age (Fried Skewer) Izakaya (Tavern),￥2000,￥2999,,
+98,99,nihonshusumiyakiyaiki  ,Fushimi Momoyama,Izakaya (Tavern),Kappo (Traditional Japanese),3.04,9,34.9319940369551,135.763480413649,Izakaya (Tavern) Kappo (Traditional Japanese),￥3000,￥3999,,
+99,100,Taketori  ,Hanazono,Fowl,Yakitori (Grilled chicken),3.06,11,35.0200080927924,135.71865044509,Fowl Yakitori (Grilled chicken),￥4000,￥4999,,
+100,101,Pierupureshiuzu  ,Karasuma Oike,French,Western Cuisine,3.06,14,35.0072606963549,135.762778950935,French Western Cuisine,￥5000,￥5999,￥1000,￥1999
+101,102,Yamadaruma  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.03,10,35.0073406469914,135.760442474632,Izakaya (Tavern) Seafood,￥3000,￥3999, ,￥999
+102,103,unagihitsumabushisumiyagura  ,Kawaramachi,Unagi (Freshwater eel),Kyoto Cuisine,3.21,7,35.0035820463351,135.769830756877,Unagi (Freshwater eel) Kyoto Cuisine,￥2000,￥2999,￥1000,￥1999
+103,104,pittsuxeriaba-rurenapori  ,Karasuma,Italian,Pizza,3.37,37,35.0050542545871,135.762143271984,Italian Pizza,￥2000,￥2999, ,￥999
+104,105,kyoutoufusousakuhirarinteikakurean  ,Kyoto,Izakaya (Tavern),Tofu,3.0,10,34.9894058915637,135.76003750068,Izakaya (Tavern) Tofu,￥3000,￥3999,￥1000,￥1999
+105,106,Yakinikusebun  ,Tambaguchi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.3,11,34.9893643762064,135.736640279062,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999,,
+106,107,Kushiyakimanten  ,Karasuma,Yakitori (Grilled chicken),Izakaya (Tavern),3.07,17,35.0043123705694,135.761059785014,Yakitori (Grilled chicken) Izakaya (Tavern),￥3000,￥3999,,
+107,108,Yakinikuichiba  ,Chayama,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.04,3,35.0405925559109,135.787095952307,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999,,
+108,109,Pizzeria e Bar La Voce  ,Kawaramachi,Italian,Pizza,3.18,14,35.0024457106357,135.765917523079,Italian Pizza,￥3000,￥3999,￥1000,￥1999
+109,110,Nyavetonamu  ,Kyoto,Viet Nam cuisine,Cafe,3.04,18,34.9887087338191,135.759459802978,Viet Nam cuisine Cafe,￥3000,￥3999,￥1000,￥1999
+110,111,Taishuusakabatenuzumasatenjingawaten  ,Uzumasa Tenjingawa,Izakaya (Tavern),Yakitori (Grilled chicken),3.02,1,35.0113916436711,135.715086610472,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,￥3000,￥3999
+111,112,hoterukeihankyoutogurandeokujoubiaga-den  ,Kyoto,Beer garden,Beer,3.05,3,34.9835995832687,135.760902140649,Beer garden Beer,￥3000,￥3999,,
+112,113,Gionramburu  ,Gion Shijo,Kyoto Cuisine,Creative cuisine,3.56,24,35.0031163586616,135.775318100373,Kyoto Cuisine Creative cuisine,￥5000,￥5999,￥3000,￥3999
+113,114,Shisui  ,Sanjo,Izakaya (Tavern),Kyoto Cuisine,3.0,8,35.009195902394,135.770522107655,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+114,115,gyouzaba-anzukko  ,Kyoto Shiyakusho Mae,Dumplings,Chinese,3.08,25,35.0092211611541,135.769588017402,Dumplings Chinese,￥2000,￥2999,,
+115,116,jukuseiyakinikupondo  ,Shijo Omiya,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.28,26,35.0045498978592,135.748173899804,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,￥1000,￥1999
+116,117,KORAN  ,Sai,Korean cuisine,Yakiniku (BBQ Beef),3.12,10,35.003480331926,135.734669237277,Korean cuisine Yakiniku (BBQ Beef),￥4000,￥4999,,
+117,118,Kyoutonijoutosaka  ,Marutamachi,Kappo (Traditional Japanese),Japanese food (other),3.53,13,35.0135900066418,135.762050386696,Kappo (Traditional Japanese) Japanese food (other),￥8000,￥9999,￥2000,￥2999
+118,119,YAMAMURA GYUUBEI  ,Omiya,Izakaya (Tavern),Italian,3.06,17,35.0050615247931,135.749032138305,Izakaya (Tavern) Italian,￥3000,￥3999,￥1000,￥1999
+119,120,Poquito  ,Kyoto Shiyakusho Mae,Spain,Dining bar,3.51,83,35.0103402053316,135.76942797917,Spain Dining bar,￥5000,￥5999,,
+120,121,Machiyashisenhoshitsukiyo  ,Omiya,Sichuan Cuisine,Shanghai Cuisine,3.53,14,35.0014650442168,135.753565538506,Sichuan Cuisine Shanghai Cuisine,￥8000,￥9999,￥3000,￥3999
+121,122,Ameirobisutoroaruru  ,Nishi Maizuru,Italian,Cafe,3.05,8,35.4531345954263,135.329018056996,Italian Cafe,￥3000,￥3999,￥1000,￥1999
+122,123,LODGE  ,Kyoto Shiyakusho Mae,Steak,Izakaya (Tavern),3.06,4,35.0097955295841,135.768753338055,Steak Izakaya (Tavern),￥4000,￥4999,￥1000,￥1999
+123,124,Yosuke YAMAJI  ,Gion Shijo,French,Modern French,4.02,44,35.0027080751407,135.775669756633,French Modern French,￥20000,￥29999,￥8000,￥9999
+124,125,Feliz-Lana  ,Karasuma,Italian,Bar,3.2,23,35.0023384434237,135.762685018699,Italian Bar,￥3000,￥3999,￥1000,￥1999
+125,126,Wakanoshizuku  ,Sanjo,Izakaya (Tavern),Chanko Nabe (Sumo Wrestlers Hot Pot),3.02,4,35.0090970189682,135.770229358743,Izakaya (Tavern) Chanko Nabe (Sumo Wrestlers Hot Pot),￥3000,￥3999,,
+126,127,fujiyakyoushoku  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Japanese food (other),3.04,8,35.0135175544319,135.764342699656,Izakaya (Tavern) Japanese food (other),￥5000,￥5999,￥4000,￥4999
+127,128,Teramachiyoshikura  ,Demachiyanagi,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.16,33,35.0287626378569,135.767667880596,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥5000,￥5999,￥1000,￥1999
+128,129,sakanaryouritosakeshinsengumi  ,Fushimi,Izakaya (Tavern),Seafood,3.28,38,34.9402814766159,135.747163053901,Izakaya (Tavern) Seafood,￥6000,￥7999,￥2000,￥2999
+129,130,bisutorowaraku  ,Karasuma,Bistro,Bar,3.2,37,35.0044229668434,135.764068141189,Bistro Bar,￥4000,￥4999,￥1000,￥1999
+130,131,Uroko  ,Kawaramachi,Izakaya (Tavern),Japanese food (other),3.07,18,35.0044541828409,135.770264014074,Izakaya (Tavern) Japanese food (other),￥3000,￥3999,,
+131,132,Ipponyari  ,Fujinomori,Fugu (Blowfish),Kappo (Traditional Japanese),3.08,5,34.9574921438766,135.763530902143,Fugu (Blowfish) Kappo (Traditional Japanese),￥8000,￥9999,,
+132,133,Higashinotouinsou  ,Karasuma Oike,Kappo (Traditional Japanese),Japanese food (other),3.15,6,35.0074942517641,135.761020197357,Kappo (Traditional Japanese) Japanese food (other),￥4000,￥4999,￥1000,￥1999
+133,134,hokkorisakabanagomiya  ,Shijo Omiya,Izakaya (Tavern),Yakitori (Grilled chicken),3.06,6,35.0061571694362,135.744938816698,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,,
+134,135,teppandainingugionshou  ,Gion Shijo,Izakaya (Tavern),Teppanyaki,3.02,1,35.0040289967583,135.772909925019,Izakaya (Tavern) Teppanyaki,￥2000,￥2999,,
+135,136,Charcoal  ,Shijo,Italian,Bar,3.53,19,35.0040659194942,135.755990495142,Italian Bar,￥3000,￥3999,,
+136,137,rakuenzakayaannachuraru  ,Demachiyanagi,Izakaya (Tavern),Dining bar,3.0,2,35.029520546032,135.779161565477,Izakaya (Tavern) Dining bar,￥2000,￥2999,,
+137,138,Gionemon  ,Higashiyama,Sushi,Kappo (Traditional Japanese),3.48,17,35.0070682048416,135.777988807732,Sushi Kappo (Traditional Japanese),￥6000,￥7999,￥1000,￥1999
+138,139,Momojirou  ,Keihan Yamashina,Izakaya (Tavern),Seafood,3.08,14,34.9918852426794,135.817584829449,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+139,140,Kizakurajirokutei  ,Sanjo,Izakaya (Tavern),Kyoto Cuisine,3.2,15,35.0083040555842,135.770650471388,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+140,141,torisemmontenyamadori  ,Kyoto,Yakitori (Grilled chicken),Sukiyaki,3.38,14,34.9893744850266,135.758834824231,Yakitori (Grilled chicken) Sukiyaki,￥3000,￥3999,,
+141,142,satsumachirandorikuroyakibeppinya  ,Karasuma,Izakaya (Tavern),Fowl,3.48,39,35.0024498377811,135.763680208698,Izakaya (Tavern) Fowl,￥3000,￥3999,,
+142,143,zensekikoshitsuizakayasakurazaka  ,Sanjo,Izakaya (Tavern),Seafood,3.0,4,35.0076434580508,135.770025878736,Izakaya (Tavern) Seafood,￥2000,￥2999,,
+143,144,Chiritorinabeiyama  ,Kitano Hakubaicho,Chiritori nabe (tripe),Korean cuisine,3.52,24,35.0266908875947,135.733680472959,Chiritori nabe (tripe) Korean cuisine,￥4000,￥4999,,
+144,145,Mayonakashokudouchoujuugigarokkaku  ,Karasuma Oike,Izakaya (Tavern),Fowl,3.06,3,35.0077163534109,135.755477314134,Izakaya (Tavern) Fowl,￥2000,￥2999,,
+145,146,Bankettonishiki  ,Karasuma,Japanese food (other),Izakaya (Tavern),3.15,7,35.0051393378696,135.760538380364,Japanese food (other) Izakaya (Tavern),￥4000,￥4999,,
+146,147,Roppakuyakado  ,Karasuma,Izakaya (Tavern),Wine bar,3.06,7,35.0044689590267,135.757541181135,Izakaya (Tavern) Wine bar,￥3000,￥3999,,
+147,148,Parinijuuikku  ,Kawaramachi,Steak,Beer,3.15,45,35.0051732085629,135.766597896551,Steak Beer,￥2000,￥2999,￥1000,￥1999
+148,149,ajidokorosamon  ,Sai,Izakaya (Tavern),Okinawan Cuisine,3.05,2,35.0039066692894,135.734330079148,Izakaya (Tavern) Okinawan Cuisine,￥3000,￥3999, ,￥999
+149,150,Ajidokoroterasaki  ,Kyoto,Kaiseki (Traditional Japanese),Seafood,3.52,8,34.9884436069205,135.750571386701,Kaiseki (Traditional Japanese) Seafood,￥8000,￥9999,,
+150,151,STRADA  ,Kyoto Shiyakusho Mae,Italian,,3.0,18,35.0111700267108,135.764283368223,Italian nan,￥6000,￥7999,￥2000,￥2999
+151,152,Nonkitei  ,Gion Shijo,Kappo (Traditional Japanese),Creative cuisine,3.47,20,35.005610543325,135.775718785592,Kappo (Traditional Japanese) Creative cuisine,￥8000,￥9999,,
+152,153,kyouryourikaji  ,Marutamachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.56,67,35.0172339290037,135.754474736969,Kyoto Cuisine Kaiseki (Traditional Japanese),￥8000,￥9999,￥5000,￥5999
+153,154,nikugaumaikafenikkusutokku  ,Tambaguchi,Cafe,Steak,3.19,41,34.9955417719794,135.736694990099,Cafe Steak,￥2000,￥2999,￥1000,￥1999
+154,155,momojirouichiba  ,Kitano Hakubaicho,Izakaya (Tavern),Seafood,3.05,3,35.0271719225443,135.732265846074,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+155,156,Waraiya  ,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),3.09,27,35.0028114876945,135.764935643338,Izakaya (Tavern) Yakitori (Grilled chicken),￥4000,￥4999,,
+156,157,Ryouma  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.03,1,35.0085699666364,135.760825441782,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+157,158,Nihonryouriukihashi  ,Kyoto,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.53,42,34.9860781841528,135.759591579816,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥8000,￥9999,￥3000,￥3999
+158,159,Sushiyoshino  ,Sanjo,Sushi,Kappo (Traditional Japanese),3.06,3,35.0081457443705,135.770947398464,Sushi Kappo (Traditional Japanese),￥6000,￥7999,￥2000,￥2999
+159,160,Tsuneo  ,Gion Shijo,Kappo (Traditional Japanese),Wine bar,3.52,8,35.000280609852,135.778695172693,Kappo (Traditional Japanese) Wine bar,￥10000,￥14999,,
+160,161,KYOTO GATTEN  ,Gion Shijo,Tempura,Sushi,3.09,11,35.0040634027413,135.770918699917,Tempura Sushi,￥3000,￥3999,￥1000,￥1999
+161,162,Figerasu  ,Gion Shijo,Spain,Bar,3.06,14,35.0047133675842,135.772886006607,Spain Bar,￥5000,￥5999,,
+162,163,LOTUS  ,Shijo,Italian,Izakaya (Tavern),3.42,30,35.0042639780311,135.757373982236,Italian Izakaya (Tavern),￥4000,￥4999,,
+163,164,Saredokafe  ,Kyoto,Cafe,Crepes,3.11,21,34.9890664307592,135.757022211173,Cafe Crepes,￥1000,￥1999,￥1000,￥1999
+164,165,Kushinobou  ,Kyoto,Kushi-age (Fried Skewer),,3.06,22,34.98607954286,135.757872000343,Kushi-age (Fried Skewer) nan,￥4000,￥4999,￥1000,￥1999
+165,166,Kaisendokoroichi  ,Karasuma,Izakaya (Tavern),Seafood,3.08,5,35.0072254458004,135.764121618828,Izakaya (Tavern) Seafood,￥4000,￥4999,,
+166,167,Kyuushuunecchuuya  ,Omiya,Izakaya (Tavern),Dumplings,3.08,12,35.0047043374916,135.74884411481,Izakaya (Tavern) Dumplings,￥3000,￥3999,,
+167,168,Nosutarujia  ,Kyoto Shiyakusho Mae,Dining bar,Italian,3.04,14,35.0100432814247,135.768785546195,Dining bar Italian,￥3000,￥3999,,
+168,169,sakesakanatanagokoro  ,Gojo,Izakaya (Tavern),Japanese food (other),3.06,9,34.9977994824742,135.762570792723,Izakaya (Tavern) Japanese food (other),￥4000,￥4999,,
+169,170,mo-shondaina-  ,Kyoto Shiyakusho Mae,Cafe,Burger,3.12,19,35.0079904252289,135.767628236827,Cafe Burger,￥2000,￥2999,￥1000,￥1999
+170,171,Sumibikushiyakitsujiya  ,Kawaramachi,Yakitori (Grilled chicken),Izakaya (Tavern),3.05,10,35.0029592732293,135.766284691163,Yakitori (Grilled chicken) Izakaya (Tavern),￥3000,￥3999,,
+171,172,Tenshinchashitsu  ,Kyoto,Shanghai Cuisine,Cantonese Cuisine,3.54,52,34.9858540036173,135.757424825642,Shanghai Cuisine Cantonese Cuisine,￥3000,￥3999,￥1000,￥1999
+172,173,Haiborubakyoutokarasumaichikyuuniisan  ,Karasuma,Bar,Bar,3.22,4,35.0046028542619,135.758724410036,Bar Bar,￥2000,￥2999,￥2000,￥2999
+173,174,Oumigyuuyakinikumeitokuya  ,Jujo,Yakiniku (BBQ Beef),,3.0,2,34.9695735185194,135.757181706528,Yakiniku (BBQ Beef) nan,￥4000,￥4999,,
+174,175,Mukadeya  ,Karasuma,Kyoto Cuisine,Japanese food (other),3.07,21,35.005659231154,135.756468653259,Kyoto Cuisine Japanese food (other),￥6000,￥7999,￥3000,￥3999
+175,176,Hanagokoro  ,Hanazono,Kyoto Cuisine,Shojin Cuisine (Buddhist Cuisine),3.08,11,35.0211042512664,135.721942974391,Kyoto Cuisine Shojin Cuisine (Buddhist Cuisine),￥3000,￥3999,￥1000,￥1999
+176,177,Rakuza  ,Kyoto,Izakaya (Tavern),Seafood,3.22,29,34.988146543692,135.75785468439,Izakaya (Tavern) Seafood,￥4000,￥4999,,
+177,178,Monakadou  ,Kawaramachi,Izakaya (Tavern),Creative cuisine,3.07,10,35.0046222883179,135.769911094623,Izakaya (Tavern) Creative cuisine,￥3000,￥3999,,
+178,179,kyoutoayanokoujimangetsunohana  ,Karasuma,Sweets,Japanese food (other),3.26,26,35.0025617701124,135.763672148658,Sweets Japanese food (other),￥2000,￥2999, ,￥999
+179,180,shunsaibaruiberiko  ,Sanjo,Dining bar,Creative cuisine,3.05,4,35.0075957803491,135.769639476852,Dining bar Creative cuisine,￥3000,￥3999,,
+180,181,Ikiikiudon  ,Karasuma Oike,Udon,Japanese food (other),3.18,47,35.0112104746148,135.758368024296,Udon Japanese food (other), ,￥999, ,￥999
+181,182,zasera-kyouto  ,Kyoto Shiyakusho Mae,Dining bar,Kappo (Traditional Japanese),3.05,2,35.0093689200271,135.769410525339,Dining bar Kappo (Traditional Japanese),￥6000,￥7999,,
+182,183,Daikokuebisu  ,Saiin,Yakiniku (BBQ Beef),Korean cuisine,3.06,15,35.0033844419695,135.73084039301,Yakiniku (BBQ Beef) Korean cuisine,￥4000,￥4999,,
+183,184,kaitoshirowainnobarukakimaru  ,Kyoto,Bar,Italian,3.0,8,34.9893858083232,135.755149018704,Bar Italian,￥3000,￥3999,,
+184,185,chisouyouga  ,Gojo,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.63,8,34.9940370483543,135.759205967623,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥10000,￥14999,￥6000,￥7999
+185,186,Kushiyamonogatari  ,Kyoto,Kushi-age (Fried Skewer),Izakaya (Tavern),3.0,14,34.9881307373069,135.759300676139,Kushi-age (Fried Skewer) Izakaya (Tavern),￥2000,￥2999,￥1000,￥1999
+186,187,nihonshubarujinsuke  ,Karasuma,Izakaya (Tavern),Seafood,3.05,8,35.0026117668848,135.763793525165,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+187,188,Hanatanuki  ,Nishioji Oike,Izakaya (Tavern),Okonomiyaki,3.01,11,35.011192518789,135.732162145963,Izakaya (Tavern) Okonomiyaki,￥3000,￥3999,,
+188,189,izakayaba-shiba  ,Gion Shijo,Izakaya (Tavern),Japanese food (other),3.03,2,35.0048497374475,135.772631854769,Izakaya (Tavern) Japanese food (other),￥3000,￥3999,,
+189,190,Satsumagokamon  ,Karasuma,Izakaya (Tavern),Sukiyaki,3.07,27,35.0040723797291,135.760114596783,Izakaya (Tavern) Sukiyaki,￥3000,￥3999, ,￥999
+190,191,Kyoutoyamanashiyakitorikanazawa  ,Keihan Yamashina,Izakaya (Tavern),Yakitori (Grilled chicken),3.06,36,34.9913314236335,135.818192026742,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,,
+191,192,Himiko  ,Higashi Maizuru,Izakaya (Tavern),Seafood,3.12,29,35.4756594489946,135.394954321689,Izakaya (Tavern) Seafood,￥4000,￥4999,￥1000,￥1999
+192,193,koshitsuichiammasamunebettei  ,Gion Shijo,Izakaya (Tavern),Dining bar,3.06,2,35.0048052648707,135.770748957635,Izakaya (Tavern) Dining bar,￥2000,￥2999,￥2000,￥2999
+193,194,CHULETA  ,Gion Shijo,Spain,Bar,3.58,24,35.004132038915,135.772773820467,Spain Bar,￥5000,￥5999,￥1000,￥1999
+194,195,GRILL&PUB The NICK STOCK  ,Sanjo,Steak,Bar,3.0,19,35.008732885782,135.769916345949,Steak Bar,￥2000,￥2999,￥1000,￥1999
+195,196,Choushuuryourikyoumon  ,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.07,34,35.0092956151734,135.770592097252,Kyoto Cuisine Kaiseki (Traditional Japanese),￥5000,￥5999,￥2000,￥2999
+196,197,Brochette  ,Karasuma Oike,Western (Others),French,3.55,44,35.0103900554259,135.761151164263,Western (Others) French,￥3000,￥3999,￥1000,￥1999
+197,198,Ilifune  ,Jingu Marutamachi,Dining bar,Italian,3.06,1,35.0167886687495,135.768654135428,Dining bar Italian,￥3000,￥3999,,
+198,199,Satsuki  ,Kyoto Shiyakusho Mae,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.51,5,35.0118947848042,135.770775017945,Kyoto Cuisine Kaiseki (Traditional Japanese),￥10000,￥14999,,
+199,200,Kaitoshirowainnobarukakimaru  ,Saiin,Bar,Izakaya (Tavern),3.04,3,35.0023837266776,135.731470386764,Bar Izakaya (Tavern),￥3000,￥3999,,
+200,201,Sandaimetorimero  ,Shijo,Izakaya (Tavern),Yakitori (Grilled chicken),3.0,2,35.0039504023623,135.757482876519,Izakaya (Tavern) Yakitori (Grilled chicken),￥2000,￥2999,,
+201,202,Furenchibado  ,Kyoto Shiyakusho Mae,French,Bistro,3.06,11,35.0136922748397,135.765308722494,French Bistro,￥4000,￥4999,￥1000,￥1999
+202,203,BISTRO BAR A VIN  C  ,Shijo,Bistro,Seafood,3.51,49,35.0013962432629,135.758178491902,Bistro Seafood,￥2000,￥2999,￥3000,￥3999
+203,204,Figerasu  ,Karasuma,Spain,Bar,3.04,11,35.0062093790221,135.760437804883,Spain Bar,￥3000,￥3999,,
+204,205,Sorekaraayanokouji  ,Shijo,Izakaya (Tavern),Japanese food (other),3.0,10,35.0024459092234,135.761385121707,Izakaya (Tavern) Japanese food (other),￥4000,￥4999,,
+205,206,nikugaumaikafenikkusutokku  ,Toji,Cafe,Steak,3.19,17,34.9831039778838,135.755014596872,Cafe Steak,￥1000,￥1999,￥1000,￥1999
+206,207,Teppankushiyakisakura  ,Chushojima,Izakaya (Tavern),Teppanyaki,3.05,7,34.9304169208423,135.759897728248,Izakaya (Tavern) Teppanyaki,￥3000,￥3999, ,￥999
+207,208,TORIBUN  ,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),3.02,10,35.0040039412769,135.769580202706,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,￥1000,￥1999
+208,209,Supuringubareburuwarikyouto  ,Kawaramachi,Dining bar,Cafe,3.53,36,35.0054145412285,135.764856918916,Dining bar Cafe,￥3000,￥3999,￥1000,￥1999
+209,210,Bistro SUMIRE Chinese   ,Gion Shijo,Chinese,Dim sum,3.35,13,35.0018691814228,135.77025635595,Chinese Dim sum,￥8000,￥9999,,
+210,211,Bisutoroemuiaru  ,Gion Shijo,Bistro,Italian,3.48,20,35.0058615735432,135.772624864318,Bistro Italian,￥4000,￥4999,,
+211,212,Daitouryou  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.08,16,35.0046850072479,135.771166428501,Kyoto Cuisine Kaiseki (Traditional Japanese),￥6000,￥7999,￥4000,￥4999
+212,213,Nagomijun  ,Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.15,16,35.0048941434939,135.754802777872,Kyoto Cuisine Kaiseki (Traditional Japanese),￥6000,￥7999,￥3000,￥3999
+213,214,Hiroya  ,Kurama,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.59,51,35.1224245875838,135.763415575783,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥15000,￥19999,￥15000,￥19999
+214,215,Kenedhikurabu  ,Sanjo,Bar,Italian,3.04,2,35.0101227508598,135.770702883301,Bar Italian,￥3000,￥3999,,
+215,216,zensekikoshitsuizakayataketorinoneiro  ,Kyoto,Izakaya (Tavern),Seafood,3.0,10,34.9873619562937,135.760768922931,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+216,217,Miho  ,Shijo Omiya,Izakaya (Tavern),Okinawan Cuisine,3.12,20,35.0034141056446,135.743572945316,Izakaya (Tavern) Okinawan Cuisine,￥3000,￥3999,,
+217,218,Chabana  ,Kyoto,Okonomiyaki,Izakaya (Tavern),3.01,8,34.9893539073314,135.757441329796,Okonomiyaki Izakaya (Tavern),￥2000,￥2999,,
+218,219,Akayashiro  ,Tambaguchi,Horumon (BBQ Offel),Yakiniku (BBQ Beef),3.52,37,34.9936908501078,135.736194839079,Horumon (BBQ Offel) Yakiniku (BBQ Beef),￥4000,￥4999,,
+219,220,Sousakukoshitsuizakayasugiurakyoutoekimaeshichijouten  ,Shichijo,Izakaya (Tavern),Seafood,3.18,2,34.989451476559,135.762002057647,Izakaya (Tavern) Seafood,￥4000,￥4999,,
+220,221,Sakanayariichi  ,Keihan Yamashina,Izakaya (Tavern),Seafood,3.05,10,34.9910711240413,135.815349219266,Izakaya (Tavern) Seafood,￥4000,￥4999,,
+221,222,yasaidainingukusushi  ,Sanjo,Vegetable dishes,Izakaya (other),3.05,5,35.0084462392183,135.769311964896,Vegetable dishes Izakaya (other),￥3000,￥3999,,
+222,223,nikuyanodaidokoro  ,Sanjo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.0,6,35.0082829459208,135.770604087326,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999,￥1000,￥1999
+223,224,Miyagawachousaka  ,Gion Shijo,Italian,French,3.09,11,34.9991239314915,135.770942814225,Italian French,￥20000,￥29999,￥10000,￥14999
+224,225,Kashiwa  ,Gion Shijo,Yakitori (Grilled chicken),Fowl,3.06,11,35.0052630628078,135.774706385671,Yakitori (Grilled chicken) Fowl,￥3000,￥3999,,
+225,226,Iorisantouka  ,Emmachi,Izakaya (Tavern),Kyoto Cuisine,3.05,5,35.0173968112083,135.7296451249,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+226,227,Kyuushuunecchuuya  ,Katsura,Izakaya (Tavern),Dumplings,3.03,3,34.9796412396191,135.704267304194,Izakaya (Tavern) Dumplings,￥3000,￥3999,,
+227,228,kyoutokushidokoroazumaya  ,Sanjo,Yakitori (Grilled chicken),Izakaya (Tavern),3.0,1,35.0072069503946,135.770632467843,Yakitori (Grilled chicken) Izakaya (Tavern),￥1000,￥1999,,
+228,229,Chizutakkarubitonichinandorisachi  ,Saiin,Izakaya (Tavern),Bar,3.04,3,35.0030103264823,135.731479523822,Izakaya (Tavern) Bar,￥3000,￥3999,,
+229,230,Shunsaifujii  ,Kitaoji,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.35,6,35.0433171469793,135.761285414868,Kappo (Traditional Japanese) Kaiseki (Traditional Japanese),￥8000,￥9999,￥5000,￥5999
+230,231,Hitotose  ,Kyoto,Japanese food (other),Izakaya (Tavern),3.0,3,34.9894061814444,135.760732165197,Japanese food (other) Izakaya (Tavern),￥3000,￥3999,,
+231,232,Bairan  ,Katsuragawa,Chinese,Dim sum,3.12,29,34.9638660290022,135.706929476087,Chinese Dim sum,￥1000,￥1999, ,￥999
+232,233,Setsugekka  ,Kyoto Shiyakusho Mae,Bar,Lounge,3.13,35,35.0088372302662,135.764832596683,Bar Lounge,￥2000,￥2999,,
+233,234,yakinikutobi-ruichibakouji  ,Karasuma,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06,4,35.0041026546082,135.760134038219,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥4000,￥4999,￥1000,￥1999
+234,235,Sandaimetorimero  ,Shijo Omiya,Izakaya (Tavern),Yakitori (Grilled chicken),3.04,5,35.0039008051422,135.748432797077,Izakaya (Tavern) Yakitori (Grilled chicken),￥2000,￥2999,,
+235,236,zensekikoshitsuizakayatsukinokakehashi  ,Kyoto,Izakaya (Tavern),Regional Cuisine (Other),3.0,6,34.9874163946048,135.760751144123,Izakaya (Tavern) Regional Cuisine (Other),￥3000,￥3999,,
+236,237,tounyuutonshabutoratarou  ,Shijo,Kaiseki (Traditional Japanese),Shabu Shabu (Japanese Steamboat),3.0,31,35.0014854399394,135.760442744194,Kaiseki (Traditional Japanese) Shabu Shabu (Japanese Steamboat),￥5000,￥5999,￥3000,￥3999
+237,238,Dainingunagomi  ,Keihan Yamashina,Izakaya (Tavern),Japanese food (other),3.0,8,34.9896417987219,135.813416667795,Izakaya (Tavern) Japanese food (other),￥2000,￥2999,,
+238,239,Mossannobetayaki  ,Sai,Okonomiyaki,Horumon (BBQ Offel),3.51,19,35.0030579623755,135.73955107351,Okonomiyaki Horumon (BBQ Offel),￥2000,￥2999, ,￥999
+239,240,gionnotonjiruyasanadachiya  ,Gion Shijo,Regional Cuisine (Other),Nihonshu (Japanese sake),3.15,11,35.0046578468005,135.774536705406,Regional Cuisine (Other) Nihonshu (Japanese sake),￥3000,￥3999,,
+240,241,Gottie'sBEEF  ,Gion Shijo,Steak,Yakiniku (BBQ Beef),3.09,50,35.0042139376688,135.770659547842,Steak Yakiniku (BBQ Beef),￥4000,￥4999,￥1000,￥1999
+241,242,pasutakorekushonandoba-dougetsuneo  ,Shijo,Izakaya (Tavern),Pasta,3.43,9,35.0023747986738,135.760981825142,Izakaya (Tavern) Pasta,￥4000,￥4999,￥1000,￥1999
+242,243,Shougetsu  ,Kawaramachi,Okonomiyaki,Teppanyaki,3.08,22,35.0067669680697,135.768950127822,Okonomiyaki Teppanyaki,￥2000,￥2999, ,￥999
+243,244,Kampaiboupuruda  ,Sanjo,Korean cuisine,Yakiniku (BBQ Beef),3.0,4,35.010283845264,135.770732873394,Korean cuisine Yakiniku (BBQ Beef),￥3000,￥3999,,
+244,245,teppandainingugionshou  ,Karasuma,Izakaya (Tavern),Italian,3.03,2,35.0047547729186,135.758178337282,Izakaya (Tavern) Italian,￥2000,￥2999,,
+245,246,Sajiki  ,Karasuma,Izakaya (Tavern),Japanese food (other),3.0,21,35.0062516368031,135.762732301268,Izakaya (Tavern) Japanese food (other),￥4000,￥4999,,
+246,247,gansochiriteppanyakimotsunabeakachiriya  ,Kyoto,Motsu Nabe (Offel Hot Pot),Izakaya (Tavern),3.02,12,34.9830487933671,135.760015850726,Motsu Nabe (Offel Hot Pot) Izakaya (Tavern),￥3000,￥3999,,
+247,248,Nikumon  ,Omiya,Yakiniku (BBQ Beef),Izakaya (Tavern),3.0,11,35.0043274276467,135.748516937114,Yakiniku (BBQ Beef) Izakaya (Tavern),￥3000,￥3999,,
+248,249,pontochouyakinikuyaruki  ,Sanjo,Yakiniku (BBQ Beef),Bar,3.06,4,35.0075863598508,135.770952701556,Yakiniku (BBQ Beef) Bar,￥3000,￥3999,,
+249,250,BAR-CERVECERIA xativa  ,Kyoto Shiyakusho Mae,Spain,Bar,3.45,12,35.0130748179604,135.770174741391,Spain Bar,￥3000,￥3999,,
+250,251,Ginnan  ,Kyoto,Izakaya (Tavern),Tofu,3.05,11,34.9893875390549,135.758827324252,Izakaya (Tavern) Tofu,￥4000,￥4999,,
+251,252,Kyuushuunecchuuya  ,Fushimi Momoyama,Izakaya (Tavern),Dumplings,3.0,6,34.9332650315496,135.764592762749,Izakaya (Tavern) Dumplings,￥3000,￥3999,,
+252,253,konken  ,Kawaramachi,Thailand cooking,Izakaya (Tavern),3.12,7,35.0047954829718,135.767272580132,Thailand cooking Izakaya (Tavern),￥1000,￥1999, ,￥999
+253,254,Yakinikuhorumonanju  ,Karasuma,Yakiniku (BBQ Beef),Korean cuisine,3.0,5,35.0050667494906,135.761928011508,Yakiniku (BBQ Beef) Korean cuisine,￥3000,￥3999,,
+254,255,Yamabanaheihachidiya  ,Shugakuin,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.56,29,35.0540652185977,135.791069150017,Kyoto Cuisine Kaiseki (Traditional Japanese),￥10000,￥14999,￥4000,￥4999
+255,256,Idutsuya  ,Karasuma Oike,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.28,9,35.0094799167364,135.763540729937,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,,
+256,257,Kyouyoushokumatsumoto  ,Karasuma,Western Cuisine,French,3.33,20,35.0062209598182,135.755592651184,Western Cuisine French,￥4000,￥4999,￥1000,￥1999
+257,258,Ashuckurk  ,Demachiyanagi,Bistro,Bar,3.0,7,35.0282667028448,135.774100099116,Bistro Bar,￥3000,￥3999,,
+258,259,ITALIAN BAR MODERNTIMES  ,Marutamachi,Italian,Pizza,3.29,15,35.0134296607426,135.75716857729,Italian Pizza,￥2000,￥2999, ,￥999
+259,260,Aiyoxtsu  ,Karasuma Oike,Kushi-age (Fried Skewer),Izakaya (Tavern),3.05,5,35.0083908126893,135.760456591774,Kushi-age (Fried Skewer) Izakaya (Tavern),￥1000,￥1999, ,￥999
+260,261,Chanchi  ,Kyoto,Korean cuisine,Izakaya (Tavern),3.46,34,34.9882018356172,135.759003197571,Korean cuisine Izakaya (Tavern),￥2000,￥2999, ,￥999
+261,262,SHUKURA  ,Sanjo,Bar,Nihonshu (Japanese sake),3.06,5,35.0083132271355,135.770986276413,Bar Nihonshu (Japanese sake),￥3000,￥3999,,
+262,263,mikusoroji-ba-sumu-su  ,Gion Shijo,Bar,Dining bar,3.05,3,35.0048785884352,135.770638685639,Bar Dining bar,￥2000,￥2999,,
+263,264,Kinugawa  ,Gojo,Kappo (Traditional Japanese),Shabu Shabu (Japanese Steamboat),3.42,8,34.9965550946793,135.758193991288,Kappo (Traditional Japanese) Shabu Shabu (Japanese Steamboat),￥6000,￥7999,￥2000,￥2999
+264,265,Momojirou  ,Demachiyanagi,Izakaya (Tavern),Seafood,3.01,6,35.0286314545673,135.778022534342,Izakaya (Tavern) Seafood,￥2000,￥2999,,
+265,266,daikouen  ,Tambaguchi,Yakiniku (BBQ Beef),Korean cuisine,3.21,16,34.9987151466086,135.742588521201,Yakiniku (BBQ Beef) Korean cuisine,￥4000,￥4999,,
+266,267,Gounotora  ,Shijo,Izakaya (Tavern),Nihonshu (Japanese sake),3.16,9,35.0025508204389,135.756944652324,Izakaya (Tavern) Nihonshu (Japanese sake),￥3000,￥3999,,
+267,268,Bejotamuamua  ,Karasuma Oike,Bar,Western (Others),3.1,16,35.0085174661826,135.760477973056,Bar Western (Others),￥3000,￥3999,,
+268,269,Ichibakouji  ,Kawaramachi,Izakaya (Tavern),Steak,3.51,69,35.0052579227962,135.766659276441,Izakaya (Tavern) Steak,￥3000,￥3999,￥1000,￥1999
+269,270,shioriyaichie  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Nihonshu (Japanese sake),3.07,19,35.0112406861844,135.770665334948,Izakaya (Tavern) Nihonshu (Japanese sake),￥4000,￥4999,,
+270,271,Kitayama  ,Gion Shijo,Hot Pot (other),Kyoto Cuisine,3.02,5,35.002975569942,135.770782932183,Hot Pot (other) Kyoto Cuisine,￥5000,￥5999,￥2000,￥2999
+271,272,Tempurashinjukutsunahachi  ,Kawaramachi,Tempura,Kaiseki (Traditional Japanese),3.02,17,35.0032062235375,135.768132581881,Tempura Kaiseki (Traditional Japanese),￥4000,￥4999,￥1000,￥1999
+272,273,yakinikuajidouraku  ,Higashi Maizuru,Yakiniku (BBQ Beef),Seafood,3.06,2,35.469724811884,135.395291789126,Yakiniku (BBQ Beef) Seafood,￥3000,￥3999,,
+273,274,IL TOBANCHI  ,Karasuma Oike,Bar,Italian,3.18,15,35.0081926739393,135.75448043055,Bar Italian,￥3000,￥3999,,
+274,275,Shikinoajisugiura  ,Karasuma,Izakaya (Tavern),Seafood,3.15,17,35.0063332547144,135.760440854482,Izakaya (Tavern) Seafood,￥4000,￥4999,,
+275,276,Kyoutoyakitoriseisakujo  ,Kawaramachi,Yakitori (Grilled chicken),Fowl,3.29,17,35.0025548324267,135.766148745556,Yakitori (Grilled chicken) Fowl,￥3000,￥3999,,
+276,277,arashiyamakushibun  ,Shijo,Kushi-age (Fried Skewer),Izakaya (Tavern),3.21,14,35.0035746010211,135.757013210605,Kushi-age (Fried Skewer) Izakaya (Tavern),￥3000,￥3999,,
+277,278,Toriasa  ,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),3.09,23,35.004073490731,135.760115152241,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999, ,￥999
+278,279,zensekikoshitsuizakayawazakurahitohira  ,Kyoto,Izakaya (Tavern),Seafood,3.02,11,34.989950559467,135.760263012429,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+279,280,saredowa  ,Kyoto,Izakaya (Tavern),Creative cuisine,3.38,11,34.9885642285296,135.755091561303,Izakaya (Tavern) Creative cuisine,￥3000,￥3999,,
+280,281,gyokouchokusoukaisensakabaanji  ,Kawaramachi,Izakaya (Tavern),Seafood,3.53,83,35.0025773585975,135.765652816779,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+281,282,Rejon  ,Kawaramachi,French,Bistro,3.4,5,35.0043410421313,135.764696148361,French Bistro,￥4000,￥4999,￥1000,￥1999
+282,283,Maruichi  ,Sanjo,Yakiniku (BBQ Beef),Korean cuisine,3.02,13,35.0076641169787,135.770246645503,Yakiniku (BBQ Beef) Korean cuisine,￥4000,￥4999,,
+283,284,Osakenobijutsukan  ,Kyoto Shiyakusho Mae,Bar,Dining bar,3.06,6,35.0085134524901,135.769211136841,Bar Dining bar,￥1000,￥1999,￥1000,￥1999
+284,285,wainandooyasaibarubejibaru  ,Shijo,Italian,Wine bar,3.51,33,35.0027690463108,135.756766378431,Italian Wine bar,￥4000,￥4999,￥2000,￥2999
+285,286,kaitoshirowainnobarukakimaru  ,Kawaramachi,Bar,Izakaya (Tavern),3.31,10,35.00251012759,135.764738173613,Bar Izakaya (Tavern),￥3000,￥3999,,
+286,287,Yudoufutakemura  ,Arashiyama,Tofu,Yuba,3.5,47,35.0174861567175,135.676820063458,Tofu Yuba,￥3000,￥3999,￥3000,￥3999
+287,288,ajiromanishigamatei  ,Gion Shijo,Izakaya (Tavern),Kyoto Cuisine,3.12,27,35.0021249893934,135.770370779114,Izakaya (Tavern) Kyoto Cuisine,￥4000,￥4999,￥1000,￥1999
+288,289,Giombansankyoushoku  ,Gion Shijo,Izakaya (Tavern),Tempura,3.0,5,35.0047439357398,135.773794540857,Izakaya (Tavern) Tempura,￥5000,￥5999,,
+289,290,Kyouhorumonhana  ,Kujo,Izakaya (Tavern),Horumon (BBQ Offel),3.06,10,34.9816927982727,135.758354384477,Izakaya (Tavern) Horumon (BBQ Offel),￥2000,￥2999,,
+290,291,Bar PLAYGROUND  ,Imadegawa,Bar,Wine bar,3.06,2,35.0295642817079,135.754755257071,Bar Wine bar,￥3000,￥3999,￥1000,￥1999
+291,292,Kyameron  ,Kawaramachi,Steak,French,3.07,50,35.0007170141562,135.766347289201,Steak French,￥6000,￥7999,￥2000,￥2999
+292,293,Sumibikazuya  ,Kawaramachi,Izakaya (Tavern),Seafood,3.51,21,35.0050144006436,135.770260932981,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+293,294,Kandumebaruamichi  ,Karasuma,Bar,Izakaya (Tavern),3.05,2,35.0063553793326,135.7549885285,Bar Izakaya (Tavern),￥3000,￥3999, ,￥999
+294,295,Ikkakujuu  ,Shijo,Izakaya (Tavern),Teppanyaki,3.29,17,35.0024820185196,135.761502332533,Izakaya (Tavern) Teppanyaki,￥3000,￥3999,,
+295,296,Jounetsushokusaikyoushoku  ,Kawaramachi,Seafood,Kyoto Cuisine,3.08,31,35.0033479812571,135.766979284898,Seafood Kyoto Cuisine,￥4000,￥4999,,
+296,297,Yakinikumarutomi  ,Kawaramachi,Yakiniku (BBQ Beef),Izakaya (Tavern),3.06,3,35.0035826018361,135.769831034607,Yakiniku (BBQ Beef) Izakaya (Tavern),￥4000,￥4999,￥1000,￥1999
+297,298,toriiebisu  ,Kyoto,Seafood,Izakaya (Tavern),3.51,20,34.9828907544875,135.76000280353,Seafood Izakaya (Tavern),￥4000,￥4999,,
+298,299,Kyoutokeburikawa  ,  Kameoka,Ryokan,Auberge,3.42,27,35.0218892615986,135.499870945225,Ryokan Auberge,￥8000,￥9999,￥2000,￥2999
+299,300,Gionyamamoto  ,Gion Shijo,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.06,2,35.0053383546023,135.775969888382,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥10000,￥14999,￥10000,￥14999
+300,301,Kappouyoshizen  ,Gion Shijo,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.58,16,35.0014552168919,135.779293680016,Kappo (Traditional Japanese) Kaiseki (Traditional Japanese),￥10000,￥14999,￥10000,￥14999
+301,302,Nikuryouritobatoyo  ,Karasuma,Beef dishes,Wine bar,3.04,3,35.0064328735181,135.755130179835,Beef dishes Wine bar,￥4000,￥4999, ,￥999
+302,303,jikidoukagura  ,Nijojo Mae,Kappo (Traditional Japanese),Izakaya (Tavern),3.04,2,35.0121961386775,135.754713004686,Kappo (Traditional Japanese) Izakaya (Tavern),￥4000,￥4999,,
+303,304,itaria-nasagura  ,Gion Shijo,Italian,Wine bar,3.59,76,35.0045350229217,135.771145326048,Italian Wine bar,￥8000,￥9999,￥3000,￥3999
+304,305,Puranchaken  ,Gion Shijo,Steak,Creative cuisine,3.53,10,35.0042977378753,135.776475880344,Steak Creative cuisine,￥8000,￥9999,,
+305,306,Bansankyoushoku  ,Karasuma,Yakitori (Grilled chicken),Izakaya (Tavern),3.31,23,35.0040813327449,135.76384067581,Yakitori (Grilled chicken) Izakaya (Tavern),￥3000,￥3999,,
+306,307,Azuki  ,Keihan Yamashina,Izakaya (Tavern),Seafood,3.0,23,34.9901706761905,135.816001428781,Izakaya (Tavern) Seafood,￥4000,￥4999,,
+307,308,Ichibakouji  ,Kyoto,Dining bar,Creative cuisine,3.5,68,34.9858523371143,135.757423992455,Dining bar Creative cuisine,￥4000,￥4999,￥1000,￥1999
+308,309,Sumikatominokouji  ,Kawaramachi,Izakaya (Tavern),Seafood,3.52,60,35.0043096613632,135.764968904931,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+309,310,zensekikoshitsuizakayasakurakomachi  ,Kawaramachi,Izakaya (Tavern),Seafood,3.0,5,35.0038544390544,135.765356949219,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+310,311,Imomatsu  ,Kyoto,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.07,9,34.9893468710734,135.756372811629,Izakaya (Tavern) Motsu Nabe (Offel Hot Pot),￥3000,￥3999,,
+311,312,Rakuchin  ,Gion Shijo,Kushi-age (Fried Skewer),Japanese food (other),3.31,5,35.0045670238658,135.774575873002,Kushi-age (Fried Skewer) Japanese food (other),￥6000,￥7999,,
+312,313,Mogu piatti  ,Karasuma Oike,Italian,Bar,3.04,4,35.0085049812238,135.761262630687,Italian Bar,￥3000,￥3999,￥1000,￥1999
+313,314,sute-kihausupondo  ,Kawaramachi,Steak,Western Food (Other),3.31,40,35.0039567310859,135.769979893907,Steak Western Food (Other),￥5000,￥5999,￥1000,￥1999
+314,315,Taichirouya  ,Nishikyogoku,Izakaya (Tavern),Seafood,3.05,3,34.991173868241,135.718639746247,Izakaya (Tavern) Seafood,￥5000,￥5999,,
+315,316,Yakinikuhorumongyuuteruryourianiki  ,Shijo Omiya,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.14,14,35.0033891092207,135.743624608845,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999, ,￥999
+316,317,shioriya  ,Shijo,Izakaya (Tavern),Seafood,3.01,25,35.001216019068,135.760142503755,Izakaya (Tavern) Seafood,￥4000,￥4999,,
+317,318,Bar MICHIya  ,Sanjo,Bar,Bar,3.26,46,35.0092109015368,135.77056488119,Bar Bar,￥3000,￥3999,,
+318,319,Kushidainigusumiyakiromanya  ,Shijo,Izakaya (Tavern),Yakitori (Grilled chicken),3.03,14,35.0039426316597,135.757840347188,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,,
+319,320,Daniel's Luce   ,Kyoto,Italian,,3.04,2,34.9877804938527,135.759120984966,Italian nan,￥3000,￥3999,,
+320,321,Trattoria La Voce  ,Karasuma,Italian,Pasta,3.5,76,35.0046017230065,135.757564228663,Italian Pasta,￥4000,￥4999,￥1000,￥1999
+321,322,Saketosakanatootokomaeshokudou  ,Kyoto,Izakaya (Tavern),Seafood,3.0,5,34.9876927501597,135.760535038236,Izakaya (Tavern) Seafood,￥3000,￥3999,￥3000,￥3999
+322,323,Karyou  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.68,56,35.0017880519702,135.774576246268,Kyoto Cuisine Kaiseki (Traditional Japanese),￥10000,￥14999,￥5000,￥5999
+323,324,Kyoutotawahoteruokujoubiagaden  ,Kyoto,Beer garden,BBQ,3.04,15,34.9874299906819,135.759973708063,Beer garden BBQ,￥3000,￥3999,￥4000,￥4999
+324,325,kyouchabana  ,Kyoto,Okonomiyaki,Izakaya (Tavern),3.12,23,34.9890817057776,135.756957771377,Okonomiyaki Izakaya (Tavern),￥2000,￥2999,,
+325,326,giwonizakayamomojirou  ,Gion Shijo,Izakaya (Tavern),Seafood,3.04,15,35.0058602258918,135.774977446776,Izakaya (Tavern) Seafood,￥5000,￥5999,,
+326,327,zeppinryokuchadashishabunoomiseiemon  ,Kyoto,Izakaya (Tavern),Japanese food (other),3.06,5,34.9894075723193,135.760854377206,Izakaya (Tavern) Japanese food (other),￥3000,￥3999,,
+327,328,Kyo gastronomy KOZO  ,Marutamachi,French,Kyoto Cuisine,3.06,12,35.0163828159497,135.765054453067,French Kyoto Cuisine,￥6000,￥7999,￥3000,￥3999
+328,329,Teramachihambagugokurakutombo  ,Kyoto Shiyakusho Mae,Hamburger Steak,Western Cuisine,3.04,6,35.0141669829842,135.767409637268,Hamburger Steak Western Cuisine,￥3000,￥3999,￥1000,￥1999
+329,330,Karasumarugenkiichiba  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.04,12,35.0103744674258,135.759198271613,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+330,331,Ikkon  ,Nijojo Mae,Kappo (Traditional Japanese),,3.06,4,35.0112701139966,135.753990607315,Kappo (Traditional Japanese) nan,￥4000,￥4999,,
+331,332,Taketorineo  ,Kuramaguchi,Izakaya (Tavern),Yakitori (Grilled chicken),3.15,11,35.0378468163278,135.759746961168,Izakaya (Tavern) Yakitori (Grilled chicken),￥4000,￥4999,,
+332,333,kyouyasaitosousakuryourinakaya  ,Saiin,Izakaya (Tavern),Dandan noodles,3.04,12,35.0023578901548,135.731129582924,Izakaya (Tavern) Dandan noodles,￥3000,￥3999,,
+333,334,Grelot  ,Gion Shijo,French,Western Cuisine,3.45,16,35.0018373086887,135.774166588229,French Western Cuisine,￥6000,￥7999,￥3000,￥3999
+334,335,kyoutoteppantachibana  ,Shijo,Teppanyaki,Okonomiyaki,3.03,11,35.0014512421299,135.758450411231,Teppanyaki Okonomiyaki,￥3000,￥3999, ,￥999
+335,336,Itameshioriva  ,Gion Shijo,Italian,Bar,3.27,5,35.0057597431616,135.771006226111,Italian Bar,￥3000,￥3999,,
+336,337,CRAFT BEER & PIZZA 100K HYAKKEI  ,Kyoto,Italian,Pizza,3.0,8,34.9893520231614,135.760880488706,Italian Pizza,￥1000,￥1999, ,￥999
+337,338,Shunsaidaininguitokoya  ,Sanjo,Izakaya (Tavern),Vegetable dishes,3.06,4,35.0074399660058,135.769772528532,Izakaya (Tavern) Vegetable dishes,￥3000,￥3999,,
+338,339,Izakayaanji  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.45,67,35.0072117782955,135.760809394537,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+339,340,Bankokugaden  ,Marutamachi,Thailand cooking,Thai Curry,3.08,34,35.0157125849768,135.763629880014,Thailand cooking Thai Curry,￥2000,￥2999, ,￥999
+340,341,Yakinikubaruyaruki  ,Kawaramachi,Yakiniku (BBQ Beef),Bar,3.06,4,35.0054373353702,135.769367061125,Yakiniku (BBQ Beef) Bar,￥3000,￥3999,,
+341,342,Osuteriaebaruporenta  ,Kawaramachi,Italian,Wine bar,3.53,22,35.0006859178841,135.767006402561,Italian Wine bar,￥5000,￥5999,,
+342,343,Tajimaya  ,Kyoto,Shabu Shabu (Japanese Steamboat),Sukiyaki,3.0,26,34.9880843488581,135.759041810885,Shabu Shabu (Japanese Steamboat) Sukiyaki,￥2000,￥2999, ,￥999
+343,344,Torisei  ,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),3.16,21,34.9875610768654,135.75934930944,Izakaya (Tavern) Yakitori (Grilled chicken),￥2000,￥2999, ,￥999
+344,345,Old School wine and spirits  ,Kyoto Shiyakusho Mae,Dining bar,Bar,3.06,6,35.0120894040715,135.76607262174,Dining bar Bar,￥3000,￥3999,,
+345,346,Tsubakurosupponshokudou  ,Sanjo,Suppon (Soft-shelled Turtle),Hot Pot (other),3.09,23,35.0102819004551,135.770700098427,Suppon (Soft-shelled Turtle) Hot Pot (other),￥4000,￥4999,,
+346,347,Rudensu  ,Marutamachi,Italian,Vegetable dishes,3.46,4,35.0139657947104,135.761760115723,Italian Vegetable dishes,￥10000,￥14999,￥5000,￥5999
+347,348,zensekikoshitsuizakayataketorigoten  ,Keihan Yamashina,Izakaya (Tavern),Yakitori (Grilled chicken),3.0,6,34.9915094340712,135.816699086979,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,,
+348,349,Arata  ,Omiya,Okonomiyaki,Teppanyaki,3.3,3,35.0037826261259,135.752575088963,Okonomiyaki Teppanyaki,￥2000,￥2999, ,￥999
+349,350,Hachisei  ,Tambaguchi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.02,4,34.9951733748197,135.746687788271,Kyoto Cuisine Kaiseki (Traditional Japanese),￥6000,￥7999,￥2000,￥2999
+350,351,Sentojemusukurabu  ,Gion Shijo,Bar,,3.09,47,35.0028213092513,135.770682665597,Bar nan,￥2000,￥2999,,
+351,352,Kyoutonishikitempurasakabataneshichi  ,Karasuma,Tempura,Izakaya (Tavern),3.06,12,35.0047299012145,135.763226478858,Tempura Izakaya (Tavern),￥2000,￥2999, ,￥999
+352,353,Roti Chicken&Jackie Tacos  ,Shijo,Mexico cuisine,Bar,3.53,67,35.0004287056027,135.760199999643,Mexico cuisine Bar,￥2000,￥2999,￥1000,￥1999
+353,354,Gurugurudon  ,Nijo,Okonomiyaki,Teppanyaki,3.05,1,35.0123167108515,135.740500012855,Okonomiyaki Teppanyaki,￥2000,￥2999, ,￥999
+354,355,Rohan  ,Karasuma,Izakaya (Tavern),Seafood,3.05,11,35.0052369832686,135.760451459631,Izakaya (Tavern) Seafood,￥2000,￥2999,,
+355,356,Jukuseiyakinikupondo  ,Kyoto,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.13,14,34.9891072870517,135.758586801575,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,￥1000,￥1999
+356,357,kyoumachiyaitarianronkusu  ,Kawaramachi,Italian,Sumibiyaki,3.0,15,35.0003212201544,135.766175377257,Italian Sumibiyaki,￥5000,￥5999,￥2000,￥2999
+357,358,Shunkouhinaka  ,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,3.05,9,35.0048563722425,135.770847835959,Kappo (Traditional Japanese) Kyoto Cuisine,￥5000,￥5999,,
+358,359,Fujiwara  ,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,3.55,20,35.0045742678926,135.77586854309,Kappo (Traditional Japanese) Kyoto Cuisine,￥10000,￥14999,,
+359,360,Tarou  ,Imadegawa,Kappo (Traditional Japanese),Seafood,3.02,6,35.0242467837948,135.754118610327,Kappo (Traditional Japanese) Seafood,￥3000,￥3999, ,￥999
+360,361,Osakekafepuchipuchi  ,Kawaramachi,Nihonshu (Japanese sake),Cafe,3.05,4,35.0065819395963,135.766187032479,Nihonshu (Japanese sake) Cafe,￥2000,￥2999,,
+361,362,MAWARI  ,Kawaramachi,Yakiniku (BBQ Beef),Korean cuisine,3.0,9,35.0065861638027,135.769507034336,Yakiniku (BBQ Beef) Korean cuisine,￥3000,￥3999,,
+362,363,Oumiyaseiemon  ,Marutamachi,European-style Curry,Curry rice,3.54,97,35.0175594520648,135.754607766489,European-style Curry Curry rice,￥1000,￥1999,￥1000,￥1999
+363,364,Sanji  ,Marutamachi,Izakaya (Tavern),Japanese food (other),3.05,13,35.013811914261,135.761300994272,Izakaya (Tavern) Japanese food (other),￥3000,￥3999, ,￥999
+364,365,Kyouryourimaiko  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.01,9,35.002949205254,135.774788811343,Kyoto Cuisine Kaiseki (Traditional Japanese),￥6000,￥7999,￥3000,￥3999
+365,366,waingurashiori  ,Kyoto,Wine bar,Izakaya (Tavern),3.0,2,34.9891792115284,135.757884078847,Wine bar Izakaya (Tavern),￥4000,￥4999,,
+366,367,HOMURA  ,Sai,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.28,28,35.0034547821889,135.734845890448,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥4000,￥4999,,
+367,368,Wine Bar Musée  ,Karasuma,Wine bar,Italian,3.21,22,35.0042900870239,135.757412588939,Wine bar Italian,￥6000,￥7999,,
+368,369,Gokoumachiono  ,Kawaramachi,Izakaya (Tavern),Oden,3.22,6,35.0041808090447,135.766273524737,Izakaya (Tavern) Oden,￥4000,￥4999,,
+369,370,Hamachou  ,Sanjo,Kaiseki (Traditional Japanese),Izakaya (Tavern),3.47,51,35.0092758869736,135.770129081058,Kaiseki (Traditional Japanese) Izakaya (Tavern),￥5000,￥5999,￥4000,￥4999
+370,371,osakenobijutsukankyoutosanjoukarasumaretoropabu  ,Karasuma Oike,Bar,Pub,3.07,14,35.0088371264815,135.758890312416,Bar Pub,￥1000,￥1999, ,￥999
+371,372,Sumibiyakinikuou  ,Nishioji Sanjo,Korean cuisine,Yakiniku (BBQ Beef),3.06,8,35.0098315859985,135.734037330666,Korean cuisine Yakiniku (BBQ Beef),￥5000,￥5999,,
+372,373,Kichiri  ,Kawaramachi,Izakaya (Tavern),Dining bar,3.02,31,35.0058020791253,135.769399579361,Izakaya (Tavern) Dining bar,￥3000,￥3999,,
+373,374,kyouyakiyomizuhonke  ,Karasuma,Izakaya (Tavern),Kyoto Cuisine,3.41,20,35.002351241466,135.763923526363,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+374,375,Itariankuatoro  ,Kyoto,Italian,,3.04,45,34.987430208611,135.75654871472,Italian nan,￥3000,￥3999,￥1000,￥1999
+375,376,fu-zuba-shioriya  ,Fushimi Momoyama,Izakaya (Tavern),Seafood,3.08,27,34.9322170439724,135.762067187416,Izakaya (Tavern) Seafood,￥3000,￥3999,￥1000,￥1999
+376,377,SinSin  ,Shijo,Bar,Chinese,3.14,9,35.0042709223101,135.757407034727,Bar Chinese,￥2000,￥2999,,
+377,378,Kyoukarasuma  ,Marutamachi,Kappo (Traditional Japanese),Shabu Shabu (Japanese Steamboat),3.04,3,35.0170448658086,135.759240738747,Kappo (Traditional Japanese) Shabu Shabu (Japanese Steamboat),￥5000,￥5999,￥2000,￥2999
+378,379,konana  ,Karasuma,Pasta,Cafe,3.0,21,35.0048187081379,135.761222248208,Pasta Cafe,￥1000,￥1999,￥1000,￥1999
+379,380,Eijuan  ,Kyoto,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.0,6,34.9868944053945,135.754991924237,Kyoto Cuisine Kaiseki (Traditional Japanese),￥5000,￥5999,￥2000,￥2999
+380,381,Youfuushuzenumakarou  ,Higashi Muko,Izakaya (Tavern),Dining bar,3.0,1,34.9523586518418,135.707107768878,Izakaya (Tavern) Dining bar,￥2000,￥2999,,
+381,382,kyoutogyuukaisekiinayoshi  ,Gion Shijo,Kaiseki (Traditional Japanese),Beef dishes,3.52,36,35.0061859589746,135.771232742776,Kaiseki (Traditional Japanese) Beef dishes,￥10000,￥14999,￥3000,￥3999
+382,383,Sumibikushiyakitsujiya  ,Marutamachi,Yakitori (Grilled chicken),Izakaya (Tavern),3.19,29,35.0147078952308,135.759336949466,Yakitori (Grilled chicken) Izakaya (Tavern),￥3000,￥3999, ,￥999
+383,384,Koji  ,Nijojo Mae,Western Cuisine,Buffet style,3.21,60,35.0126843848362,135.752712037275,Western Cuisine Buffet style,￥4000,￥4999,￥2000,￥2999
+384,385,Iharada  ,Tambaguchi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.91,52,34.9905304922927,135.732212095897,Kyoto Cuisine Kaiseki (Traditional Japanese),￥10000,￥14999,,
+385,386,gionkurashita  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.39,20,35.0024242162741,135.775650326871,Kyoto Cuisine Kaiseki (Traditional Japanese),￥10000,￥14999,￥3000,￥3999
+386,387,Furenchimanjunia  ,Shijo,Bistro,Seafood,3.39,9,35.0021886585341,135.758180121949,Bistro Seafood,￥3000,￥3999,,
+387,388,Kaisen  ,Kawaramachi,Izakaya (Tavern),Seafood,3.04,3,35.0064297939584,135.769639808287,Izakaya (Tavern) Seafood,￥2000,￥2999,￥2000,￥2999
+388,389,Karibunoutage  ,Okubo,Yakitori (Grilled chicken),Kushi-age (Fried Skewer),3.03,5,34.872628137959,135.776882179013,Yakitori (Grilled chicken) Kushi-age (Fried Skewer),￥4000,￥4999,,
+389,390,Teppou  ,Fushimi,Izakaya (Tavern),Hot Pot (other),3.06,9,34.9464657545857,135.759598958588,Izakaya (Tavern) Hot Pot (other),￥4000,￥4999,,
+390,391,Kyouryouriyumekaisekitaniguchi  ,Marutamachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.51,6,35.0169202593955,135.765107757229,Kyoto Cuisine Kaiseki (Traditional Japanese),￥6000,￥7999,￥4000,￥4999
+391,392,Kinnotsubasaerudoru  ,Karasuma,Izakaya (Tavern),Korean cuisine,3.0,23,35.0048165080561,135.762476310827,Izakaya (Tavern) Korean cuisine,￥3000,￥3999,￥1000,￥1999
+392,393,Umekoujikorabo  ,Tambaguchi,Italian,Pasta,3.06,11,34.9895269742883,135.743251111435,Italian Pasta,￥3000,￥3999,￥1000,￥1999
+393,394,Yoshina  ,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.51,33,35.0067497862069,135.771155501009,Kyoto Cuisine Kaiseki (Traditional Japanese),￥5000,￥5999,,
+394,395,Zakicchinsaruvatorekuomo  ,Kyoto,Italian,Cafe,3.49,196,34.9858523371143,135.757423992455,Italian Cafe,￥3000,￥3999,￥1000,￥1999
+395,396,Kyounosakanakatsugi  ,Gion Shijo,Kappo (Traditional Japanese),Seafood,3.06,3,35.0046911089201,135.77066341444,Kappo (Traditional Japanese) Seafood,￥5000,￥5999,￥3000,￥3999
+396,397,Kawamuraryourihei  ,Kawaramachi,Izakaya (Tavern),Japanese food (other),3.07,24,35.0052540277354,135.766282085724,Izakaya (Tavern) Japanese food (other),￥3000,￥3999,￥1000,￥1999
+397,398,Kyoutokimurayahonten  ,Kyoto,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.0,48,34.9860593144037,135.760571777058,Izakaya (Tavern) Motsu Nabe (Offel Hot Pot),￥3000,￥3999,￥1000,￥1999
+398,399,Kyouyakiyomizu  ,Kawaramachi,Izakaya (Tavern),Kyoto Cuisine,3.3,7,35.0045697208568,135.769967366724,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+399,400,Tsushima  ,Shijo Omiya,Izakaya (Tavern),Seafood,3.5,18,35.0050820424849,135.74699008473,Izakaya (Tavern) Seafood,￥1000,￥1999,￥3000,￥3999
+400,401,Sherikurabu  ,Gion Shijo,Bar,Spain,3.39,21,35.0009147102712,135.778785413781,Bar Spain,￥5000,￥5999,,
+401,402,kaisekifuransuryourigurumantachibana  ,Kyoto,French,Western Cuisine,3.18,12,34.9861619402937,135.752504664528,French Western Cuisine,￥8000,￥9999,￥4000,￥4999
+402,403,THE ROCKIN' HEARTS  ,Uji,Dining bar,Curry rice,3.07,11,34.889690747805,135.801008073854,Dining bar Curry rice,￥1000,￥1999, ,￥999
+403,404,wainshokudouumiusagi  ,Karasuma,Italian,Wine bar,3.13,21,35.0027436993863,135.763917675446,Italian Wine bar,￥4000,￥4999,￥1000,￥1999
+404,405,Soufuku  ,Sanjo,Steak,Teppanyaki,3.03,5,35.01012486175,135.770703160959,Steak Teppanyaki,￥8000,￥9999,,
+405,406,Baruagiyao  ,Gojo,Bar,Seafood,3.57,15,34.9966270833216,135.761165130109,Bar Seafood,￥5000,￥5999,,
+406,407,Danieruzusore  ,Karasuma,Italian,Pizza,3.21,51,35.0054531107256,135.762710706494,Italian Pizza,￥3000,￥3999,￥1000,￥1999
+407,408,Shuuhou  ,Kujo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06,6,34.9757873237877,135.758639077176,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,,
+408,409,Amakudoparadhikambaikan  ,Imadegawa,Cafe,Italian,3.39,59,35.0313325028615,135.759160643125,Cafe Italian,￥3000,￥3999, ,￥999
+409,410,Shikisaishiwori  ,Gion Shijo,Kyoto Cuisine,Seafood,3.2,6,35.0027274293996,135.770625174694,Kyoto Cuisine Seafood,￥5000,￥5999,￥2000,￥2999
+410,411,Kyouwazentainotai  ,Karasuma,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.42,3,35.0062114378682,135.757938580376,Kyoto Cuisine Kaiseki (Traditional Japanese),￥5000,￥5999,￥2000,￥2999
+411,412,Nagamegawapontochouhana  ,Gion Shijo,Kaiseki (Traditional Japanese),Tofu,3.56,36,35.0046055709265,135.771145045046,Kaiseki (Traditional Japanese) Tofu,￥5000,￥5999,￥3000,￥3999
+412,413,mekishikandaininguabokado  ,Sanjo,Mexico cuisine,Cafe,3.14,58,35.0087559447513,135.770252983596,Mexico cuisine Cafe,￥3000,￥3999,￥1000,￥1999
+413,414,nikubaruginjirou  ,Kyoto,Bar,Steak,3.49,17,34.9891336592539,135.757792977399,Bar Steak,￥3000,￥3999,,
+414,415,Kyoutofushimigura  ,Karasuma,Izakaya (Tavern),Seafood,3.05,5,35.0027396972202,135.762725866889,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+415,416,yakinikuyaruki  ,Saiin,Yakiniku (BBQ Beef),Izakaya (Tavern),3.0,30,34.9977514521275,135.731914452052,Yakiniku (BBQ Beef) Izakaya (Tavern),￥2000,￥2999,,
+416,417,yakinikuyaruki  ,Sanjo,Yakiniku (BBQ Beef),Izakaya (Tavern),3.04,19,35.0079462997711,135.769717232034,Yakiniku (BBQ Beef) Izakaya (Tavern),￥2000,￥2999,,
+417,418,Aburiya  ,Nishikyogoku,Yakiniku (BBQ Beef),Izakaya (Tavern),3.15,13,35.0003577472119,135.710698316273,Yakiniku (BBQ Beef) Izakaya (Tavern),￥4000,￥4999,,
+418,419,nikudokoroikkou  ,Marutamachi,Yakiniku (BBQ Beef),Korean cuisine,3.04,12,35.0174966548827,135.75311233802,Yakiniku (BBQ Beef) Korean cuisine,￥4000,￥4999, ,￥999
+419,420,yakinikuyaruki  ,Fushimi,Yakiniku (BBQ Beef),Izakaya (Tavern),3.02,21,34.9444605611656,135.752149669573,Yakiniku (BBQ Beef) Izakaya (Tavern),￥2000,￥2999,,
+420,421,LOBUTA  ,Mototanaka,Izakaya (Tavern),Korean cuisine,3.05,2,35.0336198658327,135.78122509425,Izakaya (Tavern) Korean cuisine,￥2000,￥2999,,
+421,422,OICHO  ,Kiyomizu Gojo,Fowl,Hot Pot (other),3.09,30,34.9994718807524,135.766988126642,Fowl Hot Pot (other),￥3000,￥3999,,
+422,423,teppanyakiaoi  ,Kyoto,Teppanyaki,Japanese food (other),3.09,11,34.9861624957947,135.752504942257,Teppanyaki Japanese food (other),￥10000,￥14999,￥4000,￥4999
+423,424,yakinikuyaruki  ,Nagitsuji,Yakiniku (BBQ Beef),Korean cuisine,3.01,24,34.9716026244763,135.813007137899,Yakiniku (BBQ Beef) Korean cuisine,￥2000,￥2999,,
+424,425,Kyoutosakabaakamaru  ,Omiya,Izakaya (Tavern),,3.45,15,35.0022919123182,135.754258220686,Izakaya (Tavern) nan,￥3000,￥3999,,
+425,426,Sara Sara  ,Shijo,Izakaya (Tavern),Dumplings,3.06,11,35.0012701995691,135.761266296819,Izakaya (Tavern) Dumplings,￥2000,￥2999,,
+426,427,Southern Court  ,Kyoto,Dining bar,Western (Others),3.58,82,34.9860781841528,135.759591579816,Dining bar Western (Others),￥3000,￥3999,￥2000,￥2999
+427,428,Gionshimmonsou  ,Sanjo Keihan,Ryokan,Kaiseki (Traditional Japanese),3.03,4,35.0064507218773,135.775182958076,Ryokan Kaiseki (Traditional Japanese),￥4000,￥4999,￥3000,￥3999
+428,429,Tenkanoyakinikudaishougun  ,Omiya,Yakiniku (BBQ Beef),Korean cuisine,3.2,27,35.0032553440389,135.749887705965,Yakiniku (BBQ Beef) Korean cuisine,￥3000,￥3999, ,￥999
+429,430,il pozzo  ,Karasuma Oike,Italian,Pasta,3.1,47,35.0079270375066,135.755219414434,Italian Pasta,￥3000,￥3999,￥1000,￥1999
+430,431,kyouryouriuryuu  ,Sanjo,Kaiseki (Traditional Japanese),Fugu (Blowfish),3.23,15,35.0068600515356,135.771117999047,Kaiseki (Traditional Japanese) Fugu (Blowfish),￥8000,￥9999,￥3000,￥3999
+431,432,Rakusenrou  ,Karasuma,Chinese,Izakaya (Tavern),3.5,66,35.0033902461784,135.761013997939,Chinese Izakaya (Tavern),￥2000,￥2999, ,￥999
+432,433,Kishouzakura  ,Kiyomizu Gojo,French,Creative cuisine,3.31,18,34.9976169249738,135.77406373553,French Creative cuisine,￥6000,￥7999,￥3000,￥3999
+433,434,ryoushigoya  ,Nishi Maizuru,Izakaya (Tavern),Seafood,3.39,9,35.4483692416298,135.327290919841,Izakaya (Tavern) Seafood,￥3000,￥3999,￥1000,￥1999
+434,435,nikubarudakara  ,Karasuma,Izakaya (Tavern),Steak,3.04,6,35.0035378388188,135.760742324055,Izakaya (Tavern) Steak,￥3000,￥3999, ,￥999
+435,436,BARVIDA  ,Katsuragawa,Dining bar,Teppanyaki,3.04,10,34.9651769923077,135.706495285121,Dining bar Teppanyaki,￥2000,￥2999, ,￥999
+436,437,kafeandodainingubambi  ,Kyoto Shiyakusho Mae,Italian,Cafe,3.19,21,35.0078545687395,135.765470644492,Italian Cafe,￥3000,￥3999, ,￥999
+437,438,Erudoru  ,Matsugasaki,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.09,13,35.0513845037126,135.773858776996,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥4000,￥4999,￥1000,￥1999
+438,439,Ippinhashinaga  ,Karasuma,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.51,15,35.0062402331775,135.761818799882,Kyoto Cuisine Kaiseki (Traditional Japanese),￥6000,￥7999,￥2000,￥2999
+439,440,Nabetoshunsaitokyouryourikaryuu  ,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.48,29,35.0073991610866,135.771149360509,Kyoto Cuisine Kaiseki (Traditional Japanese),￥5000,￥5999,￥2000,￥2999
+440,441,kafeandodainingubambikarasuma  ,Karasuma,Italian,Cafe,3.06,9,35.0060426990217,135.758653794052,Italian Cafe,￥3000,￥3999,￥1000,￥1999
+441,442,Thiemuanfonvietto  ,Karasuma Oike,Viet Nam cuisine,Asian & ethnic cuisine (and others),3.41,50,35.0122878156377,135.76068039203,Viet Nam cuisine Asian & ethnic cuisine (and others),￥4000,￥4999,￥1000,￥1999
+442,443,Kurepurikyoutoshanderu  ,Karasuma,Crepes,Cafe,3.53,52,35.0044268890743,135.76087536173,Crepes Cafe,￥1000,￥1999,￥1000,￥1999
+443,444,Risutoranteazekura  ,Kitayama,Italian,Restaurants (other),3.07,20,35.0593189715997,135.760176492433,Italian Restaurants (other),￥10000,￥14999,￥4000,￥4999
+444,445,Saryouhassui  ,Arashiyama,Cafe,Sweets,3.51,40,35.0133557108928,135.673712178407,Cafe Sweets,￥2000,￥2999,,
+445,446,Sala Suite Caffe Rucola   ,Shijo,Italian,Cafe,3.38,99,35.0030299506061,135.757789004585,Italian Cafe,￥3000,￥3999,￥1000,￥1999
+446,447,Apollo+  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.52,39,35.0085589016931,135.763400783965,Izakaya (Tavern) Seafood,￥5000,￥5999,,
+447,448,Houen  ,Shijo,Teppanyaki,,3.07,15,35.0004611862006,135.760676368596,Teppanyaki nan,￥10000,￥14999,￥5000,￥5999
+448,449,Furenchiman  ,Kyoto,Bistro,Seafood,3.51,13,34.9890178938299,135.760971885388,Bistro Seafood,￥4000,￥4999,,
+449,450,Arigatou  ,Keihan Yamashina,Izakaya (Tavern),Yakiniku (BBQ Beef),3.02,2,34.99077783055,135.815834192493,Izakaya (Tavern) Yakiniku (BBQ Beef),￥3000,￥3999,,
+450,451,Kyousainikushima  ,Kawaramachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.03,14,35.0012783806006,135.768499862362,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥4000,￥4999, ,￥999
+451,452,kurabuhausuminami  ,Kyoto,Izakaya (Tavern),Korean cuisine,3.05,8,34.98378198882,135.756611932997,Izakaya (Tavern) Korean cuisine,￥3000,￥3999, ,￥999
+452,453,Pittsusarubatorekuomoandoguriru  ,Sanjo,Pizza,Italian,3.07,191,35.0091050735216,135.770221303486,Pizza Italian,￥3000,￥3999,￥1000,￥1999
+453,454,Fresco  ,Kyoto,Izakaya (Tavern),Spain,3.03,14,34.9870936702527,135.761833557977,Izakaya (Tavern) Spain,￥3000,￥3999,,
+454,455,Rengetsudiya  ,Higashiyama,Tofu,Yuba,3.11,23,35.0070121745114,135.782270399171,Tofu Yuba,￥3000,￥3999,￥3000,￥3999
+455,456,gyuukushibunzou  ,Sanjo,Izakaya (Tavern),Sumibiyaki,3.04,4,35.0080729756618,135.771021006812,Izakaya (Tavern) Sumibiyaki,￥4000,￥4999,￥1000,￥1999
+456,457,PREGO TOKICHI  ,Kyoto Shiyakusho Mae,Italian,Sumibiyaki,3.2,12,35.011998663271,135.770814454332,Italian Sumibiyaki,￥6000,￥7999,￥3000,￥3999
+457,458,sumibiyakiyasaiyaoki  ,Kyoto Shiyakusho Mae,Tempura,Izakaya (Tavern),3.05,5,35.0079184437468,135.765067063957,Tempura Izakaya (Tavern),￥3000,￥3999,,
+458,459,Osakanazukkorobashi  ,Kyoto,Izakaya (Tavern),Japanese food (other),3.0,11,34.9829568331209,135.760550304596,Izakaya (Tavern) Japanese food (other),￥4000,￥4999,,
+459,460,Torimasa  ,Kutsukawa,Izakaya (Tavern),Fowl,3.0,11,34.8657210896615,135.777328426011,Izakaya (Tavern) Fowl,￥2000,￥2999,,
+460,461,Aguuru  ,Karasuma Oike,Okinawan Cuisine,Izakaya (Tavern),3.5,62,35.0072095261423,135.759082038099,Okinawan Cuisine Izakaya (Tavern),￥3000,￥3999, ,￥999
+461,462,Yakinikunonki  ,Higashino,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.07,22,34.9847315379008,135.817685180117,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥1000,￥1999, ,￥999
+462,463,Adan  ,Kyoto,Izakaya (Tavern),Okinawan Cuisine,3.31,53,34.9877474367485,135.758829899552,Izakaya (Tavern) Okinawan Cuisine,￥3000,￥3999,,
+463,464,Oushokuyakappa  ,Shijo,Italian,Bar,3.06,10,35.0011968806133,135.761640435789,Italian Bar,￥4000,￥4999, ,￥999
+464,465,Minari  ,Kyoto,Korean cuisine,table d'hôte,3.05,18,34.9857923570028,135.758195320047,Korean cuisine table d'hôte,￥2000,￥2999,￥1000,￥1999
+465,466,Daichinokura  ,Higashi Maizuru,Izakaya (Tavern),,3.05,8,35.4755940516044,135.395377610734,Izakaya (Tavern) nan,￥3000,￥3999,,
+466,467,sumibisute-kisakaikyoutosanjou  ,Karasuma Oike,Steak,Kaiseki (Traditional Japanese),3.5,14,35.0084038300335,135.758348710679,Steak Kaiseki (Traditional Japanese),￥10000,￥14999,￥1000,￥1999
+467,468,Ryuuhourakuenchura  ,Nishi Maizuru,Okinawan Cuisine,Izakaya (Tavern),3.0,10,35.4449179554754,135.327941302508,Okinawan Cuisine Izakaya (Tavern),￥3000,￥3999,,
+468,469,Byuandodainingukotoshieru  ,Kyoto,Modern French,Italian,3.42,16,34.9867153369871,135.759520723032,Modern French Italian,￥8000,￥9999,￥3000,￥3999
+469,470,Karin  ,Nijojo Mae,Chinese,Dandan noodles,3.51,32,35.0124527439116,135.752767321127,Chinese Dandan noodles,￥6000,￥7999,￥3000,￥3999
+470,471,Fujiya  ,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.09,7,35.0092364447783,135.770016314461,Kyoto Cuisine Kaiseki (Traditional Japanese),￥8000,￥9999,￥5000,￥5999
+471,472,Kyoutokimurayahonten  ,Gion Shijo,Izakaya (Tavern),Sukiyaki,3.04,8,35.0029136003924,135.775193397843,Izakaya (Tavern) Sukiyaki,￥3000,￥3999,￥1000,￥1999
+472,473,Joukoya  ,Karasuma,Izakaya (Tavern),Seafood,3.22,5,35.0060265299699,135.755237689615,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+473,474,Nikukappoubarugyugyu  ,Gion Shijo,Bar,Izakaya (Tavern),3.06,22,35.0044231981298,135.7773106525,Bar Izakaya (Tavern),￥4000,￥4999,￥2000,￥2999
+474,475,furenchigiombarumaruhashi  ,Gion Shijo,Bar,French,3.54,54,35.0045328213749,135.772315506744,Bar French,￥3000,￥3999, ,￥999
+475,476,nikubaruginjirou  ,Karasuma Oike,Bar,Italian,3.52,39,35.0111859734265,135.754969418789,Bar Italian,￥3000,￥3999, ,￥999
+476,477,Sumibikushiyakitsujiya  ,Kyoto,Izakaya (Tavern),Kushiyaki (Grilled skewer),3.05,11,34.9872859798613,135.754697054021,Izakaya (Tavern) Kushiyaki (Grilled skewer),￥3000,￥3999,,
+477,478,Gyararishioriya  ,Kyoto,Izakaya (Tavern),Nihonshu (Japanese sake),3.27,19,34.9893805920786,135.758639840143,Izakaya (Tavern) Nihonshu (Japanese sake),￥4000,￥4999,,
+478,479,Kyounishikiobanzaibyuffehinataya  ,Kawaramachi,Buffet style,Kyoto Cuisine,3.03,15,35.0050709633495,135.764655562569,Buffet style Kyoto Cuisine,￥1000,￥1999,￥1000,￥1999
+479,480,kamanzanijoumarufuku  ,Marutamachi,Izakaya (Tavern),Tempura,3.45,9,35.0137171039149,135.755675354734,Izakaya (Tavern) Tempura,￥3000,￥3999,,
+480,481,coLLabo  ,Karasuma Oike,Cafe,Hamburger Steak,3.27,67,35.0087508132,135.762690278581,Cafe Hamburger Steak,￥1000,￥1999, ,￥999
+481,482,tonkotsunabetogyouzaenraku  ,Shijo,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.04,3,35.002209494864,135.758479262813,Izakaya (Tavern) Motsu Nabe (Offel Hot Pot),￥3000,￥3999,,
+482,483,Ryuuan  ,Gion Shijo,Yakiniku (BBQ Beef),Japanese food (other),3.22,15,35.0047033612946,135.772464653172,Yakiniku (BBQ Beef) Japanese food (other),￥6000,￥7999,￥1000,￥1999
+483,484,Ace cafe  ,Sanjo,Cafe,Dining bar,3.09,67,35.0099516579716,135.770698447105,Cafe Dining bar,￥3000,￥3999,,
+484,485,Resutoranrejina  ,Kyoto,Western Food (Other),Buffet style,3.03,11,34.988086527367,135.756552573071,Western Food (Other) Buffet style, ,￥999,￥1000,￥1999
+485,486,Akasaki  ,Shichijo,Izakaya (Tavern),Kyoto Cuisine,3.05,4,34.9894065189753,135.763011901983,Izakaya (Tavern) Kyoto Cuisine,￥4000,￥4999,,
+486,487,Ozabu  ,Sanjo,Izakaya (Tavern),Kyoto Cuisine,3.06,7,35.008859559776,135.771111518635,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+487,488,Sutekiandodainaburuba  ,Saiin,Bar,Steak,3.04,2,35.0027856069687,135.730258524461,Bar Steak,￥2000,￥2999,,
+488,489,Yakinikuyoshimi  ,Jingu Marutamachi,Yakiniku (BBQ Beef),Steak,3.58,18,35.0173827235779,135.769612073443,Yakiniku (BBQ Beef) Steak,￥8000,￥9999,￥1000,￥1999
+489,490,sute-kihausupondo  ,Marutamachi,Steak,Hamburger Steak,3.2,41,35.014871765185,135.759256393056,Steak Hamburger Steak,￥4000,￥4999,￥1000,￥1999
+490,491,Gyouzamatsukichi  ,Kitano Hakubaicho,Dumplings,Izakaya (Tavern),3.07,2,35.0251415111497,135.743988577097,Dumplings Izakaya (Tavern),￥2000,￥2999,,
+491,492,Pontochounabariya  ,Gion Shijo,Italian,Wine bar,3.3,9,35.0043728863169,135.771006226097,Italian Wine bar,￥4000,￥4999,,
+492,493,Kamehameha  ,Kawaramachi,Okonomiyaki,Teppanyaki,3.05,2,35.0056573254951,135.766715086751,Okonomiyaki Teppanyaki,￥2000,￥2999,￥1000,￥1999
+493,494,Bunta  ,Nagaoka Tenjin,Izakaya (Tavern),Chanko Nabe (Sumo Wrestlers Hot Pot),3.02,2,34.9260684970239,135.69628460041,Izakaya (Tavern) Chanko Nabe (Sumo Wrestlers Hot Pot),￥3000,￥3999,,
+494,495,Bejitejiya  ,Shijo,Korean cuisine,Yakiniku (BBQ Beef),3.5,55,35.0025641538598,135.75703131118,Korean cuisine Yakiniku (BBQ Beef),￥3000,￥3999,,
+495,496,Juujuu  ,Kyoto,Yakiniku (BBQ Beef),Japanese food (other),3.03,12,34.9836145308151,135.757990715088,Yakiniku (BBQ Beef) Japanese food (other),￥3000,￥3999,,
+496,497,Kuuan  ,Kawaramachi,Izakaya (Tavern),Creative cuisine,3.04,3,35.0029778822432,135.766278579702,Izakaya (Tavern) Creative cuisine,￥3000,￥3999, ,￥999
+497,498,L'ajitto  ,Marutamachi,Teppanyaki,Okonomiyaki,3.23,7,35.0135983692724,135.763778853873,Teppanyaki Okonomiyaki,￥8000,￥9999,￥2000,￥2999
+498,499,Aburaya  ,Uji,Izakaya (Tavern),Kushi-age (Fried Skewer),3.05,5,34.8876733028321,135.799914983924,Izakaya (Tavern) Kushi-age (Fried Skewer),￥3000,￥3999,,
+499,500,yakitorisutandosakabakadofuku  ,Shijo,Izakaya (Tavern),Japanese food (other),3.28,5,35.0021764378276,135.758192065964,Izakaya (Tavern) Japanese food (other),￥2000,￥2999,,
+500,501,Kyoutosakagurakan  ,Shijo,Izakaya (Tavern),Bar,3.25,8,35.0013937471055,135.758383197238,Izakaya (Tavern) Bar,￥3000,￥3999,￥2000,￥2999
+501,502,Sutekihanasato  ,Gion Shijo,Steak,Teppanyaki,3.17,5,35.0057496936379,135.775634619509,Steak Teppanyaki,￥20000,￥29999,￥6000,￥7999
+502,503,Tawaterasu  ,Kyoto,Buffet style,Kaiseki (Traditional Japanese),3.35,29,34.9875874625536,135.759327643357,Buffet style Kaiseki (Traditional Japanese),￥4000,￥4999,￥2000,￥2999
+503,504,Gionshimbashinakatani  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.56,8,35.0059698378736,135.774428780362,Kyoto Cuisine Kaiseki (Traditional Japanese),￥8000,￥9999,￥3000,￥3999
+504,505,Orudohonkonresutorankyouto  ,Shijo,Chinese,Cantonese Cuisine,3.88,148,35.0031502388152,135.759122777166,Chinese Cantonese Cuisine,￥10000,￥14999,￥1000,￥1999
+505,506,Okonomiyakitsuruhashifuugetsu  ,Kyoto,Izakaya (Tavern),Okonomiyaki,3.09,21,34.9882082257195,135.759111799369,Izakaya (Tavern) Okonomiyaki,￥1000,￥1999, ,￥999
+506,507,Yakinikuyaruki  ,Gion Shijo,Yakiniku (BBQ Beef),Steak,3.07,29,35.0036731325933,135.770841270236,Yakiniku (BBQ Beef) Steak,￥2000,￥2999,￥1000,￥1999
+507,508,trattoria sette  ,Shichijo,Italian,Pizza,3.57,112,34.9885256615719,135.773285885375,Italian Pizza,￥5000,￥5999,￥2000,￥2999
+508,509,Kurosuke  ,Kitano Hakubaicho,Tofu,Yuba,3.09,26,35.030690044604,135.737293541279,Tofu Yuba,￥6000,￥7999,￥3000,￥3999
+509,510,Imozou  ,Gion Shijo,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.05,6,35.0046063909223,135.770386496894,Izakaya (Tavern) Motsu Nabe (Offel Hot Pot),￥3000,￥3999,,
+510,511,Denen  ,Sanjo,Dining bar,Bar,3.04,15,35.0085117915368,135.769528055042,Dining bar Bar,￥2000,￥2999,,
+511,512,Kenzoesuteitowainarigionten  ,Gion Shijo,Italian,Wine bar,3.61,18,35.0041894378747,135.774262180344,Italian Wine bar,￥8000,￥9999,￥3000,￥3999
+512,513,Osteria Bastille  ,Karasuma,Italian,French,3.42,86,35.0062257722612,135.760787219558,Italian French,￥4000,￥4999,￥1000,￥1999
+513,514,IN THE GREEN  ,Kitayama,Italian,Pizza,3.52,101,35.0508266183908,135.764285708834,Italian Pizza,￥3000,￥3999,￥1000,￥1999
+514,515,Ajoiichanchi  ,Fushimi Momoyama,Dining bar,Cafe,3.08,40,34.9331000107658,135.762392397532,Dining bar Cafe,￥2000,￥2999, ,￥999
+515,516,Kitayamafuurin  ,Kitayama,Kaiseki (Traditional Japanese),Seafood,3.05,1,35.053163848331,135.76313680775,Kaiseki (Traditional Japanese) Seafood,￥6000,￥7999,￥2000,￥2999
+516,517,burassuri-kontowa-ru  ,Nishioji,Izakaya (Tavern),Bistro,3.53,16,34.9806968970149,135.732464636026,Izakaya (Tavern) Bistro,￥3000,￥3999, ,￥999
+517,518,Honmamonwagyu-sakanaya-hirari  ,Kawaramachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.17,13,35.0058629134426,135.769828429833,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥4000,￥4999,,
+518,519,Manchou  ,Myoshinji,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.07,12,35.0259283001596,135.719840407183,Kyoto Cuisine Kaiseki (Traditional Japanese),￥4000,￥4999,￥2000,￥2999
+519,520,Risutoranteoraegion  ,Gion Shijo,Italian,Pasta,3.59,13,35.0057343764294,135.773283426592,Italian Pasta,￥10000,￥14999,￥4000,￥4999
+520,521,Taishuunikubarujuu  ,Sai,Bar,Steak,3.05,3,35.0055495336839,135.733446188025,Bar Steak,￥3000,￥3999,,
+521,522,Oyajinokura  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Seafood,3.04,6,35.0093603107393,135.769462188112,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+522,523,Occobe.  ,Higashiyama,Italian,Pasta,3.0,7,35.0093065901891,135.778770584191,Italian Pasta,￥3000,￥3999, ,￥999
+523,524,itariamba-rukimuraya  ,Kyoto,Italian,Bar,3.08,28,34.9874344367176,135.760092031365,Italian Bar,￥2000,￥2999,,
+524,525,Cafe Restaurant Le Temps  ,Kyoto,Buffet style,Cafe,3.46,129,34.9860776286519,135.759591302087,Buffet style Cafe,￥5000,￥5999,￥2000,￥2999
+525,526,sushidainingudaihachi  ,Karasuma,Sushi,Creative cuisine,3.06,5,35.0043950911091,135.758289455725,Sushi Creative cuisine,￥5000,￥5999,,
+526,527,Umayakinikusemmontensakuratomomiji  ,Sanjo,Yakiniku (BBQ Beef),Meat dishes,3.53,26,35.0074019139867,135.769741977266,Yakiniku (BBQ Beef) Meat dishes,￥4000,￥4999,,
+527,528,kyoutofushimigurapontochouminamian  ,Gion Shijo,Izakaya (Tavern),Japanese food (other),3.0,4,35.0049177583206,135.771062815279,Izakaya (Tavern) Japanese food (other),￥4000,￥4999,￥1000,￥1999
+528,529,Gempinfugushijoukarasumanoseki  ,Karasuma,Izakaya (Tavern),Fugu (Blowfish),3.05,9,35.0029327273151,135.762620299604,Izakaya (Tavern) Fugu (Blowfish),￥4000,￥4999,￥3000,￥3999
+529,530,Shou  ,Marutamachi,Oden,Izakaya (Tavern),3.35,11,35.0172662004822,135.757492262656,Oden Izakaya (Tavern),￥4000,￥4999,,
+530,531,Nikujuuhachi  ,Rokujizo,Yakiniku (BBQ Beef),,3.0,6,34.9321277379282,135.798820079599,Yakiniku (BBQ Beef) nan,￥2000,￥2999,,
+531,532,Gori's Kitchen  ,Jujo,Italian,Pizza,3.05,10,34.9714040036815,135.748457902315,Italian Pizza,￥3000,￥3999, ,￥999
+532,533,Tenkanoyakinikudaishougun  ,Kyoto,Yakiniku (BBQ Beef),Korean cuisine,3.05,19,34.9874677450198,135.758862965239,Yakiniku (BBQ Beef) Korean cuisine,￥3000,￥3999, ,￥999
+533,534,Kameya  ,Saiin,Crab,Fugu (Blowfish),3.02,10,35.0037832955078,135.731258950996,Crab Fugu (Blowfish),￥4000,￥4999,￥2000,￥2999
+534,535,giombashunrou  ,Gion Shijo,Meat dishes,Regional Cuisine (Other),3.06,13,35.0062088490178,135.772780507378,Meat dishes Regional Cuisine (Other),￥8000,￥9999,,
+535,536,Chishokufu  ,Emmachi,Chinese,Sichuan Cuisine,3.06,9,35.0172235312682,135.731640800471,Chinese Sichuan Cuisine,￥2000,￥2999, ,￥999
+536,537,eetokodori  ,Nishioji,Izakaya (Tavern),Yakitori (Grilled chicken),3.05,1,34.9801119574073,135.732340228845,Izakaya (Tavern) Yakitori (Grilled chicken),￥2000,￥2999,,
+537,538,Kasuian  ,Higashiyama,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.06,7,35.004593686488,135.780302762538,Kyoto Cuisine Kaiseki (Traditional Japanese),￥6000,￥7999,￥3000,￥3999
+538,539,Mimasuyamonami  ,Kawaramachi,Creative cuisine,Kyoto Cuisine,3.49,18,35.0006804052778,135.76943147919,Creative cuisine Kyoto Cuisine,￥4000,￥4999,￥1000,￥1999
+539,540,Juunikiyakan  ,Kyoto,Izakaya (Tavern),Kyoto Cuisine,3.06,31,34.9835165292173,135.760479679558,Izakaya (Tavern) Kyoto Cuisine,￥2000,￥2999, ,￥999
+540,541,kunseitojibi-ruwachi  ,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),3.51,110,35.0046809658873,135.762412711238,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,,
+541,542,Torihime  ,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),3.0,35,35.0050627109849,135.769431299658,Izakaya (Tavern) Yakitori (Grilled chicken),￥2000,￥2999,,
+542,543,Cafe Lavender  ,Nijo,Buffet style,Izakaya (other),3.04,2,35.0150178405933,135.742204191403,Buffet style Izakaya (other),￥1000,￥1999,￥1000,￥1999
+543,544,Kyoutobatake  ,Kyoto,Shabu Shabu (Japanese Steamboat),Izakaya (Tavern),3.03,11,34.9874322147137,135.760090920449,Shabu Shabu (Japanese Steamboat) Izakaya (Tavern),￥3000,￥3999,￥2000,￥2999
+544,545,Fesshimon  ,Keihan Yamashina,Italian,Bar,3.05,1,34.9900580758513,135.809567523856,Italian Bar,￥3000,￥3999,￥1000,￥1999
+545,546,nikuyaoushin  ,Karasuma Oike,Yakiniku (BBQ Beef),Kyoto Cuisine,3.58,23,35.0116048692233,135.757929986961,Yakiniku (BBQ Beef) Kyoto Cuisine,￥8000,￥9999,,
+546,547,Sumibirobataikoru  ,Shijo,Izakaya (Tavern),Seafood,3.04,1,35.0021792152744,135.758190121553,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+547,548,Hisa  ,Emmachi,Champon Noodle,Ramen,3.38,24,35.0184085511744,135.724134147115,Champon Noodle Ramen,￥1000,￥1999, ,￥999
+548,549,Horumondaigorou  ,Gion Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.44,4,35.0042417756858,135.774278690435,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,,
+549,550,Hikohachi  ,Gion Shijo,Sushi,Seafood,3.04,7,35.000418626906,135.777336112542,Sushi Seafood,￥5000,￥5999,￥1000,￥1999
+550,551,Matsusakagyuuwattsu  ,Karasuma Oike,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.26,43,35.0083900379547,135.758005559052,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥8000,￥9999,,
+551,552,FORTUNE GARDEN KYOTO  ,Kyoto Shiyakusho Mae,Bistro,Western Cuisine,3.59,107,35.0125174606404,135.768751823969,Bistro Western Cuisine,￥4000,￥4999,￥1000,￥1999
+552,553,Enrian  ,Fushimi Momoyama,Creative cuisine,Japanese food (other),3.0,8,34.9328131277709,135.764153653357,Creative cuisine Japanese food (other),￥4000,￥4999,￥1000,￥1999
+553,554,kyuushuusakabaajito  ,Nishi Maizuru,Izakaya (Tavern),Fowl,3.03,3,35.4450840478361,135.327884910655,Izakaya (Tavern) Fowl,￥4000,￥4999,,
+554,555,Heso  ,Kyoto,Standing style soba,Izakaya (Tavern),3.35,54,34.9890814844868,135.760190280706,Standing style soba Izakaya (Tavern),￥1000,￥1999, ,￥999
+555,556,Kyounozenkuruma  ,Shijo,Izakaya (Tavern),Yakitori (Grilled chicken),3.52,42,35.0019159878339,135.762640597394,Izakaya (Tavern) Yakitori (Grilled chicken),￥4000,￥4999,￥1000,￥1999
+556,557,oushuuizakayabiruzu  ,Fushimi Momoyama,Izakaya (Tavern),Pizza,3.03,5,34.9331705620257,135.762578489939,Izakaya (Tavern) Pizza,￥3000,￥3999,,
+557,558,Aburishibuya  ,Keihan Yamashina,Izakaya (Tavern),Robatayaki,3.05,4,34.9895299150812,135.81621255186,Izakaya (Tavern) Robatayaki,￥5000,￥5999,,
+558,559,Norakuro  ,Nishioji,Italian,Bistro,3.06,10,34.9868846343161,135.736232371555,Italian Bistro,￥3000,￥3999,￥1000,￥1999
+559,560,Fuubitosuuro  ,Kawaramachi,Bar,Steak,3.29,13,35.0024990219314,135.764982320515,Bar Steak,￥3000,￥3999,,
+560,561,Kaisendokorowatanabeya  ,Karasuma Oike,Seafood,Izakaya (Tavern),3.06,13,35.0121923659181,135.761338287963,Seafood Izakaya (Tavern),￥4000,￥4999,,
+561,562,Gioniwamoto  ,Gion Shijo,Kyoto Cuisine,Kappo (Traditional Japanese),3.63,18,35.0026291866409,135.7752089652,Kyoto Cuisine Kappo (Traditional Japanese),￥10000,￥14999,￥4000,￥4999
+562,563,Gyuutankeisuke  ,Kyoto,Izakaya (Tavern),Gyutan (Beef tongue),3.05,13,34.9874088836333,135.760077033787,Izakaya (Tavern) Gyutan (Beef tongue),￥3000,￥3999,,
+563,564,Oribuoirusemmontenaorio  ,Sanjo,Bistro,Steak,3.06,3,35.0075935848322,135.771154906653,Bistro Steak,￥3000,￥3999,￥2000,￥2999
+564,565,Seichuuan  ,Mototanaka,French,Western Food (Other),3.04,16,35.0234566833485,135.791238063938,French Western Food (Other),￥5000,￥5999,￥3000,￥3999
+565,566,Kyoukurozakura  ,Gion Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06,4,35.0049974654336,135.770685898467,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,,
+566,567,Nettaishokudou  ,Gion Shijo,Thailand cooking,,3.15,21,35.0036200378739,135.770765280341,Thailand cooking nan,￥2000,￥2999, ,￥999
+567,568,Toriseetakoyakushiten  ,Karasuma,Yakitori (Grilled chicken),Izakaya (Tavern),3.04,13,35.0060560797894,135.761451338878,Yakitori (Grilled chicken) Izakaya (Tavern),￥3000,￥3999, ,￥999
+568,569,Fujiishi  ,Gion Shijo,Kappo (Traditional Japanese),Japanese food (other),3.5,9,35.0042929037766,135.775563859125,Kappo (Traditional Japanese) Japanese food (other),￥4000,￥4999,,
+569,570,yakinikuyaruki  ,Ichijoji,Yakiniku (BBQ Beef),Izakaya (Tavern),3.03,9,35.0424933999691,135.783447001167,Yakiniku (BBQ Beef) Izakaya (Tavern),￥2000,￥2999,,
+570,571,Unkai  ,Nijojo Mae,Kaiseki (Traditional Japanese),Sushi,3.18,28,35.0126132859341,135.752975629768,Kaiseki (Traditional Japanese) Sushi,￥8000,￥9999,￥3000,￥3999
+571,572,Izakayamaruya  ,Kawaramachi,Izakaya (Tavern),Japanese food (other),3.03,12,35.0062175886411,135.769308178932,Izakaya (Tavern) Japanese food (other),￥2000,￥2999,,
+572,573,kyoutoarashiyamagoseiyuunoyadoranzan  ,Arashiyama,Other,,3.21,17,35.0139667695544,135.674451255559,Other nan,￥6000,￥7999,￥3000,￥3999
+573,574,Shimogamosaryou  ,Demachiyanagi,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.61,72,35.0341194079277,135.773971784747,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥15000,￥19999,￥8000,￥9999
+574,575,Kifunekiraku  ,Kurama,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.52,23,35.121465435077,135.763333646673,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥10000,￥14999,￥3000,￥3999
+575,576,Nikuyasuzu  ,Shichijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06,5,34.9891627269843,135.768209610961,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999,￥1000,￥1999
+576,577,KITAYAMA MONOLITH  ,Shugakuin,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.06,22,35.0532023785241,135.790545640787,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥6000,￥7999,￥3000,￥3999
+577,578,Watanabe  ,Nijojo Mae,Beef dishes,French,3.54,15,35.0106682253045,135.753496787151,Beef dishes French,￥5000,￥5999,￥5000,￥5999
+578,579,clover  ,Sanjo,Dining bar,Italian,3.06,4,35.0075169001933,135.769656423521,Dining bar Italian,￥3000,￥3999,,
+579,580,hamba-guandosute-kipondo  ,Tambaguchi,Hamburger Steak,Steak,3.06,28,34.9893381057758,135.7432611193,Hamburger Steak Steak,￥1000,￥1999,￥1000,￥1999
+580,581,Gempinfugukyoutoekimaenoseki  ,Kyoto,Fugu (Blowfish),Hot Pot (other),3.07,6,34.9882018600231,135.760400581518,Fugu (Blowfish) Hot Pot (other),￥4000,￥4999,￥3000,￥3999
+581,582,guramuromanthikkumairu-mu  ,Kyoto Shiyakusho Mae,Dining bar,Italian,3.03,6,35.0074640381739,135.764509908928,Dining bar Italian,￥2000,￥2999,,
+582,583,Giombengara  ,Gion Shijo,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.05,2,35.0047375449195,135.773644831362,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥8000,￥9999,￥4000,￥4999
+583,584,gochisouizakayaippaiippai  ,Fujinomori,Izakaya (Tavern),Seafood,3.0,4,34.9591012183019,135.768103226105,Izakaya (Tavern) Seafood,￥2000,￥2999,,
+584,585,uotanafumibun  ,Sanjo,Kappo (Traditional Japanese),Kyoto Cuisine,3.35,9,35.0083107259379,135.770902394605,Kappo (Traditional Japanese) Kyoto Cuisine,￥5000,￥5999,,
+585,586,Kyouhorumonkura  ,Kawaramachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.04,16,35.0035175580113,135.766923779049,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999, ,￥999
+586,587,itariambarutoreotto  ,Omiya,Italian,Pizza,3.09,25,35.0043310382601,135.748510548589,Italian Pizza,￥3000,￥3999,,
+587,588,Buraitonkicchin  ,Keihan Yamashina,Buffet style,Western Cuisine,3.16,23,34.9914324974048,135.816673259334,Buffet style Western Cuisine,￥2000,￥2999,￥2000,￥2999
+588,589,Aritsune  ,Kyoto Shiyakusho Mae,Kappo (Traditional Japanese),Kyoto Cuisine,3.69,26,35.0136786894351,135.766697218916,Kappo (Traditional Japanese) Kyoto Cuisine,￥8000,￥9999,,
+589,590,Akayashirosakae  ,Kawaramachi,Yakiniku (BBQ Beef),Izakaya (Tavern),3.21,14,35.0027941861968,135.764822728478,Yakiniku (BBQ Beef) Izakaya (Tavern),￥4000,￥4999,,
+590,591,Kihara  ,Marutamachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.15,15,35.0145004059064,135.758677569336,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥4000,￥4999, ,￥999
+591,592,Kamon  ,Kawaramachi,Italian,Bar,3.31,20,35.000848950131,135.766670311855,Italian Bar,￥3000,￥3999,￥1000,￥1999
+592,593,Mew’z cafe  ,Kyoto Shiyakusho Mae,Dining bar,Thailand cooking,3.06,19,35.0140803189745,135.767031061588,Dining bar Thailand cooking,￥2000,￥2999, ,￥999
+593,594,kyougokushinobinosato  ,Kawaramachi,Creative cuisine,Sushi,3.0,43,35.0046718932308,135.767739213735,Creative cuisine Sushi,￥3000,￥3999,,
+594,595,Takaraya  ,Kujo,Izakaya (Tavern),Yakitori (Grilled chicken),3.07,4,34.9818253292414,135.760938885954,Izakaya (Tavern) Yakitori (Grilled chicken),￥2000,￥2999,,
+595,596,datten  ,Gion Shijo,Italian,Bar,3.03,7,35.0029146749286,135.773106071146,Italian Bar,￥4000,￥4999,,
+596,597,Tatsumi  ,Saiin,Kappo (Traditional Japanese),Sushi,3.05,3,35.0029129537785,135.731653525997,Kappo (Traditional Japanese) Sushi,￥5000,￥5999,,
+597,598,chuugokuryourikoukaryuuhou  ,Kyoto,Chinese,Dim sum,3.31,16,34.986018067405,135.752539668245,Chinese Dim sum,￥6000,￥7999,￥3000,￥3999
+598,599,Kaburaya  ,Gion Shijo,Kyoto Cuisine,Creative cuisine,3.51,23,35.0033787289252,135.774285226606,Kyoto Cuisine Creative cuisine,￥4000,￥4999,,
+599,600,Kaiseitei  ,Kitayama,French,Italian,3.39,36,35.0511669200994,135.767739572989,French Italian,￥4000,￥4999,￥2000,￥2999
+600,601,Kushikatsutakoyakiseichan  ,Kyoto,Izakaya (Tavern),Takoyaki,3.05,3,34.9882171369867,135.76044752136,Izakaya (Tavern) Takoyaki,￥2000,￥2999,,
+601,602,Gyuuzen  ,Shijo,Shabu Shabu (Japanese Steamboat),Sukiyaki,3.05,10,35.0026266942601,135.759854407176,Shabu Shabu (Japanese Steamboat) Sukiyaki,￥4000,￥4999,,
+602,603,Kyouzakanafukuya  ,Nijojo Mae,Izakaya (Tavern),Seafood,3.04,1,35.0087214433883,135.750880427406,Izakaya (Tavern) Seafood,￥4000,￥4999,,
+603,604,Toto  ,Nishi Maizuru,Seafood,Sushi,3.22,13,35.443161202914,135.328169142247,Seafood Sushi,￥4000,￥4999,￥1000,￥1999
+604,605,Ganko  ,Kyoto Shiyakusho Mae,Kaiseki (Traditional Japanese),Shabu Shabu (Japanese Steamboat),3.52,79,35.0127699701935,135.77084497184,Kaiseki (Traditional Japanese) Shabu Shabu (Japanese Steamboat),￥5000,￥5999,￥3000,￥3999
+605,606,PASTA MORE  ,Kyoto,Italian,French,3.0,77,34.9846169425753,135.759077245365,Italian French,￥2000,￥2999,￥1000,￥1999
+606,607,Kyoumachibaru  ,Momoyamagoryomae,Dining bar,Izakaya (Tavern),3.04,3,34.9332422663806,135.765175215425,Dining bar Izakaya (Tavern),￥4000,￥4999,,
+607,608,wagyuuyakinikutoku  ,Sanjo,Yakiniku (BBQ Beef),Korean cuisine,3.53,29,35.0063420782855,135.772658172762,Yakiniku (BBQ Beef) Korean cuisine,￥6000,￥7999,￥1000,￥1999
+608,609,Dembei  ,Kurama,Soba,Kamameshi (Clay pot rice),3.24,21,35.1208407650961,135.762499300282,Soba Kamameshi (Clay pot rice),￥1000,￥1999,,
+609,610,Tsukinokurabito  ,Fushimi Momoyama,Kappo (Traditional Japanese),Dining bar,3.5,110,34.9305938797046,135.761806728228,Kappo (Traditional Japanese) Dining bar,￥3000,￥3999,￥1000,￥1999
+610,611,Kinnotori  ,Kujo,Izakaya (Tavern),Yakitori (Grilled chicken),3.0,4,34.9816634074628,135.761244979099,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,,
+611,612,Zekuu  ,Imadegawa,Ramen,Boneless deep-fried chicken,3.34,39,35.0295781322478,135.75264459839,Ramen Boneless deep-fried chicken, ,￥999, ,￥999
+612,613,Rojimon  ,Karasuma Oike,Izakaya (Tavern),Kyoto Cuisine,3.57,39,35.0103674756545,135.756446000514,Izakaya (Tavern) Kyoto Cuisine,￥5000,￥5999,,
+613,614,Aiemuo  ,Shichijo,Pizza,Dining bar,3.06,2,34.9891015314119,135.762999490922,Pizza Dining bar,￥2000,￥2999,,
+614,615,Al Vere  ,Momoyamagoryomae,Italian,Pasta,3.0,6,34.9332295379167,135.764975879634,Italian Pasta,￥3000,￥3999, ,￥999
+615,616,Nijoukiduki  ,Kyoto Shiyakusho Mae,Sushi,Creative cuisine,3.57,27,35.0135911599358,135.764472407717,Sushi Creative cuisine,￥6000,￥7999,￥1000,￥1999
+616,617,Hirarinteitemboukaku  ,Kyoto,Izakaya (Tavern),Kyoto Cuisine,3.0,1,34.9894197784287,135.760006669268,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+617,618,Kyoutogiommiyagawachououmie  ,Kiyomizu Gojo,Wine bar,Bar,3.26,14,34.9993616809574,135.770777816982,Wine bar Bar,￥4000,￥4999,,
+618,619,kibunebeniya  ,Kurama,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.54,30,35.1167956173022,135.761073216075,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥6000,￥7999,￥6000,￥7999
+619,620,Koikoi  ,Gion Shijo,Yakitori (Grilled chicken),Kushi-age (Fried Skewer),3.0,14,35.0059291159742,135.770727342295,Yakitori (Grilled chicken) Kushi-age (Fried Skewer),￥2000,￥2999,,
+620,621,Suiba  ,Karasuma,Stand Bar,Dining bar,3.53,29,35.0062037641349,135.757006701205,Stand Bar Dining bar,￥1000,￥1999,,
+621,622,Bussarakan  ,Kiyomizu Gojo,Thailand cooking,Creative cuisine,3.14,56,34.9997574426168,135.769097938274,Thailand cooking Creative cuisine,￥4000,￥4999,￥1000,￥1999
+622,623,Saikouchou  ,Ogura,Yakitori (Grilled chicken),Izakaya (Tavern),3.05,1,34.896595325331,135.779503768287,Yakitori (Grilled chicken) Izakaya (Tavern),￥3000,￥3999,,
+623,624,Noukoutoripaitanramemmisora  ,Kawaramachi,Ramen,Tsukemen,3.09,20,35.0012841378747,135.768565480319,Ramen Tsukemen, ,￥999, ,￥999
+624,625,Yakinikutoraji  ,Kyoto,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.13,39,34.9882521084398,135.759027359917,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,￥1000,￥1999
+625,626,Ganko  ,Kyoto,Kaiseki (Traditional Japanese),Japanese food (other),3.18,50,34.9859973602796,135.759638246329,Kaiseki (Traditional Japanese) Japanese food (other),￥3000,￥3999,￥1000,￥1999
+626,627,Sajjoupakuchi  ,Kyoto Shiyakusho Mae,Thailand cooking,Izakaya (Tavern),3.52,99,35.0090097415401,135.76653439185,Thailand cooking Izakaya (Tavern),￥2000,￥2999, ,￥999
+627,628,Gionhatanaka  ,Gion Shijo,Ryokan,Kyoto Cuisine,3.65,22,35.0023273381457,135.778853676405,Ryokan Kyoto Cuisine,￥10000,￥14999,￥5000,￥5999
+628,629,YURURI  ,Jingu Marutamachi,Izakaya (Tavern),,3.17,10,35.0157998876016,135.768767504871,Izakaya (Tavern) nan,￥4000,￥4999,￥2000,￥2999
+629,630,Yakinikushoukakuoukiyamachitei  ,Sanjo,Yakiniku (BBQ Beef),Gyutan (Beef tongue),3.06,15,35.0070330674757,135.769909480337,Yakiniku (BBQ Beef) Gyutan (Beef tongue),￥3000,￥3999,,
+630,631,Houshouan  ,Gion Shijo,Kyoto Cuisine,Tofu,3.03,6,35.0050605229677,135.771185298533,Kyoto Cuisine Tofu,￥4000,￥4999,,
+631,632,Kankokuanjupontochourinanha  ,Gion Shijo,Korean cuisine,Asian & ethnic cuisine (and others),3.56,52,35.005508525544,135.770895579745,Korean cuisine Asian & ethnic cuisine (and others),￥4000,￥4999,,
+632,633,oumigyuujukuseisute-kiichigo-kyu-roku  ,Sanjo,Steak,Yakiniku (BBQ Beef),3.06,4,35.0063734635797,135.772644561336,Steak Yakiniku (BBQ Beef),￥3000,￥3999,,
+633,634,Yukinoshita  ,Nijojo Mae,Pancake,Shaved ice (snow cone),3.58,131,35.0084717971417,135.753701315737,Pancake Shaved ice (snow cone),￥1000,￥1999,￥1000,￥1999
+634,635,Yakinikuhorumonfukukawa  ,Omiya,Yakiniku (BBQ Beef),,3.04,1,35.0039224866354,135.749414381225,Yakiniku (BBQ Beef) nan,￥3000,￥3999,,
+635,636,Purachinabifu  ,Gion Shijo,Teppanyaki,Steak,3.53,20,35.0033429568534,135.772785522492,Teppanyaki Steak,￥5000,￥5999,,
+636,637,Gionroiro  ,Gion Shijo,French,,3.83,31,35.0039998663877,135.774809490824,French nan,￥20000,￥29999,￥10000,￥14999
+637,638,Gyuurakutei  ,Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.16,32,35.0038542911101,135.756886263826,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,,
+638,639,Ristorante t.v.b  ,Gion Shijo,Italian,Wine bar,3.67,121,35.0024586542841,135.775492838365,Italian Wine bar,￥15000,￥19999,￥5000,￥5999
+639,640,YEBISU  ,Keihan Yamashina,Dandan noodles,Ramen,3.07,17,34.9898807038199,135.815807569343,Dandan noodles Ramen, ,￥999,,
+640,641,Takayasuzekuu  ,Karasuma,Ramen,,3.09,26,35.0062515568525,135.758154659223,Ramen nan, ,￥999, ,￥999
+641,642,Koshitsuyakinikugokkoya  ,Kyoto Shiyakusho Mae,Yakiniku (BBQ Beef),Izakaya (Tavern),3.02,7,35.0147310969732,135.767848185985,Yakiniku (BBQ Beef) Izakaya (Tavern),￥3000,￥3999,,
+642,643,Ebisu  ,Kyoto,Ramen,Chinese,3.51,125,34.9879265422866,135.760671004052,Ramen Chinese, ,￥999, ,￥999
+643,644,izakayakyounoshunsaiirodori  ,Kyoto,Izakaya (Tavern),Seafood,3.05,23,34.9875927316899,135.758865181522,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+644,645,matono  ,Gion Shijo,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.72,69,35.0015654801733,135.779138965567,Kappo (Traditional Japanese) Kaiseki (Traditional Japanese),￥10000,￥14999,￥4000,￥4999
+645,646,Shiunsen  ,Kyoto Shiyakusho Mae,Soba,Kappo (Traditional Japanese),3.53,40,35.0101610034653,135.766315468137,Soba Kappo (Traditional Japanese),￥3000,￥3999,￥1000,￥1999
+646,647,BEER PUB Takumiya  ,Karasuma Oike,Dining bar,Italian,3.54,20,35.0121406935032,135.760692788396,Dining bar Italian,￥3000,￥3999,,
+647,648,Kidoriya  ,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),3.0,12,34.988058244401,135.759262904836,Izakaya (Tavern) Yakitori (Grilled chicken),￥2000,￥2999, ,￥999
+648,649,Kumamotosougouinshokutemmao  ,Karasuma,Bar,Cafe,3.25,35,35.0053475358147,135.76095613485,Bar Cafe,￥3000,￥3999, ,￥999
+649,650,shijoupakuchi-  ,Shijo,Thailand cooking,Izakaya (Tavern),3.34,52,35.0038231679774,135.756007449356,Thailand cooking Izakaya (Tavern),￥2000,￥2999, ,￥999
+650,651,SOUDEN  ,Karasuma Oike,Sushi,,3.08,6,35.0088970819979,135.756710768444,Sushi nan,￥5000,￥5999,￥2000,￥2999
+651,652,Kyoutotsuyushabuchiriri  ,Marutamachi,Shabu Shabu (Japanese Steamboat),Sukiyaki,3.51,25,35.0180798378606,135.757863280496,Shabu Shabu (Japanese Steamboat) Sukiyaki,￥6000,￥7999,￥2000,￥2999
+652,653,waintoonikudaisen  ,Gojo,Italian,Yakiniku (BBQ Beef),3.04,2,34.9909665639959,135.760382677935,Italian Yakiniku (BBQ Beef),￥4000,￥4999,,
+653,654,Gokyou  ,Kuramaguchi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.09,9,35.0381862378458,135.751490980704,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999,,
+654,655,Daburin  ,Kyoto Shiyakusho Mae,Pub,Beer,3.06,23,35.0113039996657,135.769916505334,Pub Beer,￥2000,￥2999,,
+655,656,Enyahanare  ,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),3.05,3,35.0044547903775,135.757340920641,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999, ,￥999
+656,657,koubegyuuyakinikutaishitei  ,Kawaramachi,Yakiniku (BBQ Beef),Chiritori nabe (tripe),3.06,9,35.0047213758628,135.77022844917,Yakiniku (BBQ Beef) Chiritori nabe (tripe),￥4000,￥4999,,
+657,658,nihonryourisakuragawa  ,Kyoto Shiyakusho Mae,Kaiseki (Traditional Japanese),Kappo (Traditional Japanese),3.89,61,35.0121764197554,135.770683901434,Kaiseki (Traditional Japanese) Kappo (Traditional Japanese),￥20000,￥29999,￥8000,￥9999
+658,659,Sushikawano  ,Kitaoji,Sushi,Seafood,3.59,16,35.0442106378469,135.766850980753,Sushi Seafood,￥20000,￥29999,￥8000,￥9999
+659,660,Mameyagenzou  ,Kyoto Shiyakusho Mae,Kyoto Cuisine,Tofu,3.38,21,35.0122103048116,135.770671956423,Kyoto Cuisine Tofu,￥6000,￥7999,￥3000,￥3999
+660,661,chuukasobatakayasu  ,Ichijoji,Ramen,Boneless deep-fried chicken,3.59,713,35.0450520454606,135.785180350519,Ramen Boneless deep-fried chicken, ,￥999, ,￥999
+661,662,Kyouhorumontaisha  ,Kawaramachi,Horumon (BBQ Offel),Motsu Nabe (Offel Hot Pot),3.04,6,35.005134390468,135.770413137038,Horumon (BBQ Offel) Motsu Nabe (Offel Hot Pot),￥3000,￥3999,,
+662,663,cafe Cento Cento  ,Kyoto,Cafe,Pasta,3.0,84,34.9859890277939,135.75963574692,Cafe Pasta,￥2000,￥2999,￥1000,￥1999
+663,664,yakinikubunya  ,Tambaguchi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.52,41,34.9889281157548,135.741321854788,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,,
+664,665,Teuchisobaminagawa  ,Karasuma Oike,Soba,Izakaya (Tavern),3.17,9,35.0110987840461,135.756315699884,Soba Izakaya (Tavern),￥1000,￥1999,￥1000,￥1999
+665,666,Kerara  ,Kyoto Shiyakusho Mae,India cuisine,Indian curry,3.22,56,35.0098627450874,135.768780277167,India cuisine Indian curry,￥2000,￥2999,￥1000,￥1999
+666,667,Maribu  ,Shijo,Dining bar,Bar,3.07,32,35.0026700483595,135.761181517186,Dining bar Bar, ,￥999, ,￥999
+667,668,takoyakimihashiya  ,Mototanaka,Takoyaki,,3.3,9,35.0353744013964,135.781282786454,Takoyaki nan, ,￥999, ,￥999
+668,669,Taverunamezzanotte  ,Kawaramachi,Italian,Bar,3.5,4,35.0013402949916,135.769628241186,Italian Bar,￥4000,￥4999,,
+669,670,Shunsaitempuraarima  ,Shijo,Fried Foods (other),Kappo (Traditional Japanese),3.25,22,35.0002149211369,135.75805652094,Fried Foods (other) Kappo (Traditional Japanese),￥4000,￥4999,￥1000,￥1999
+670,671,Kitanoguriru  ,Kyoto,Hamburger Steak,Croquette,3.09,17,34.983286733945,135.754890432103,Hamburger Steak Croquette,￥1000,￥1999,￥1000,￥1999
+671,672,Torishinoguraten  ,Ogura,Izakaya (Tavern),Yakitori (Grilled chicken),3.03,1,34.897215844954,135.781246372772,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,￥3000,￥3999
+672,673,hakataaburimotsunabewarajiya  ,Kyoto,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.06,3,34.9879474466093,135.760619186187,Izakaya (Tavern) Motsu Nabe (Offel Hot Pot),￥3000,￥3999,,
+673,674,Ryuumon  ,Sanjo Keihan,Sichuan Cuisine,Chinese,3.27,62,35.0095870811508,135.776790180193,Sichuan Cuisine Chinese,￥1000,￥1999,,
+674,675,Kaiuntei  ,Katsura,Yakiniku (BBQ Beef),Korean cuisine,3.19,11,34.9772466378647,135.689055880132,Yakiniku (BBQ Beef) Korean cuisine,￥3000,￥3999, ,￥999
+675,676,Kemuri  ,Shijo,Izakaya (Tavern),Kyoto Cuisine,3.5,36,35.002440267338,135.756818058457,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+676,677,Ajirokkon  ,Karasuma,Kappo (Traditional Japanese),Izakaya (Tavern),3.45,37,35.0045161992946,135.758863569136,Kappo (Traditional Japanese) Izakaya (Tavern),￥4000,￥4999,,
+677,678,Rinya  ,Demachiyanagi,Pasta,Cafe,3.0,4,35.0291694800303,135.779594323478,Pasta Cafe,￥1000,￥1999, ,￥999
+678,679,Wasabi  ,Gion Shijo,Sushi,Izakaya (Tavern),3.18,40,35.0045367367521,135.773855934187,Sushi Izakaya (Tavern),￥5000,￥5999,,
+679,680,Kappousaraku  ,Marutamachi,Kappo (Traditional Japanese),Kyoto Cuisine,3.41,10,35.0149717205475,135.763935923246,Kappo (Traditional Japanese) Kyoto Cuisine,￥8000,￥9999,,
+680,681,kaisembarukamebarueito  ,Nijo,Bar,Wine bar,3.29,8,35.0109069093714,135.743232350844,Bar Wine bar,￥3000,￥3999,,
+681,682,Roko  ,Kyoto Shiyakusho Mae,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.26,21,35.0121633023603,135.771073951954,Kappo (Traditional Japanese) Kaiseki (Traditional Japanese),￥5000,￥5999,￥1000,￥1999
+682,683,kafeandopanke-kiguramu  ,Karasuma,Cafe,Pancake,3.03,13,35.0051575778876,135.762201595716,Cafe Pancake,￥1000,￥1999,￥1000,￥1999
+683,684,Kyouryouritakeshimaichigo  ,Kyoto Shiyakusho Mae,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.07,10,35.0118147926034,135.770731691893,Kyoto Cuisine Kaiseki (Traditional Japanese),￥6000,￥7999,￥2000,￥2999
+684,685,Kiyomizujunsei  ,Kiyomizu Gojo,Tofu,Yuba,3.31,82,34.9956936434902,135.781157679374,Tofu Yuba,￥2000,￥2999,￥2000,￥2999
+685,686,Kokekokko  ,Kyoto,Izakaya (Tavern),Steak,3.05,70,34.9858528926153,135.757424270184,Izakaya (Tavern) Steak,￥4000,￥4999,￥1000,￥1999
+686,687,Gionuemori  ,Gion Shijo,Kyoto Cuisine,Kappo (Traditional Japanese),3.49,14,35.0028360566996,135.775474786297,Kyoto Cuisine Kappo (Traditional Japanese),￥6000,￥7999,￥3000,￥3999
+687,688,Daniel's  ,Karasuma,Italian,Pasta,3.26,108,35.0049276065708,135.762435475769,Italian Pasta,￥3000,￥3999,￥1000,￥1999
+688,689,Kyounojidoriyaaki  ,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),3.06,8,35.0053183648418,135.76652818631,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999, ,￥999
+689,690,Rozurumu  ,Nijojo Mae,French,Western Cuisine,3.17,23,35.0126699444786,135.752857581408,French Western Cuisine,￥8000,￥9999,￥2000,￥2999
+690,691,ottimo  ,Marutamachi,Italian,Pasta,3.48,22,35.0134174671782,135.758734558909,Italian Pasta,￥4000,￥4999,￥1000,￥1999
+691,692,Kunseimaketto  ,Higashino,Cafe,Western Food (Other),3.33,12,34.9787377721628,135.818278154979,Cafe Western Food (Other),￥2000,￥2999, ,￥999
+692,693,Miyakohanten  ,Kuzuha,Chinese,Ramen,3.2,62,34.85302186762,135.696394898894,Chinese Ramen,￥1000,￥1999, ,￥999
+693,694,Shichirinya  ,Kitaoji,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.0,8,35.0501739829009,135.752532548314,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999,,
+694,695,Kushiagetoshiko  ,Kitayama,Kushi-age (Fried Skewer),Creative cuisine,3.44,9,35.0443679763449,135.770673531249,Kushi-age (Fried Skewer) Creative cuisine,￥6000,￥7999,,
+695,696,Ishiyakinamapasutakuranosuke  ,Katsura,Pasta,Italian,3.08,35,34.9742813567525,135.69405478801,Pasta Italian,￥1000,￥1999,￥1000,￥1999
+696,697,Buruvaru  ,Kyoto,Buffet style,Teppanyaki,3.08,39,34.9873821194823,135.757851331821,Buffet style Teppanyaki,￥4000,￥4999,￥2000,￥2999
+697,698,ORENO PAN okumura  ,Gion Shijo,Bread,Cafe,3.56,68,35.004104819643,135.772776043758,Bread Cafe,￥1000,￥1999, ,￥999
+698,699,Osuteriakochinerra  ,Shijo,Italian,Wine bar,3.53,19,35.0011874626133,135.763096704169,Italian Wine bar,￥6000,￥7999,￥1000,￥1999
+699,700,Sumibiyakinikugyuugyuutei  ,Sai,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.03,21,34.996404672419,135.733098582388,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥4000,￥4999,￥1000,￥1999
+700,701,Bapontochoukisshou  ,Sanjo,Bar,Pub,3.04,8,35.0073902736092,135.771175747616,Bar Pub,￥2000,￥2999,,
+701,702,karubidontosundoufusemmontenkandon  ,Fushimi,Korean cuisine,Ramen,3.33,78,34.9460223376917,135.752099879579,Korean cuisine Ramen, ,￥999, ,￥999
+702,703,Momoya  ,Karasuma,Izakaya (Tavern),Kushi-age (Fried Skewer),3.09,25,35.0049276318732,135.762436568306,Izakaya (Tavern) Kushi-age (Fried Skewer),￥3000,￥3999,,
+703,704,motsunabekamehachi  ,Sanjo,Motsu Nabe (Offel Hot Pot),Izakaya (Tavern),3.51,55,35.007292778167,135.770839668905,Motsu Nabe (Offel Hot Pot) Izakaya (Tavern),￥4000,￥4999,,
+704,705,nikubarushouzudainingu  ,Karasuma,Bar,Yakiniku (BBQ Beef),3.0,4,35.005163406658,135.761976058623,Bar Yakiniku (BBQ Beef),￥3000,￥3999, ,￥999
+705,706,yakinikushokudoukandon  ,Matsuiyamate,Yakiniku (BBQ Beef),Korean cuisine,3.07,10,34.8563873059014,135.710289145583,Yakiniku (BBQ Beef) Korean cuisine,￥1000,￥1999, ,￥999
+706,707,Kyoutohanagushi  ,Kyoto,Kushi-age (Fried Skewer),Yakitori (Grilled chicken),3.07,7,34.9869346378788,135.753112880184,Kushi-age (Fried Skewer) Yakitori (Grilled chicken),￥2000,￥2999,,
+707,708,Harise  ,Kiyomizu Gojo,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.6,31,34.9947085696117,135.770896076954,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥10000,￥14999,￥5000,￥5999
+708,709,Hayashi  ,Shijo,Horumon (BBQ Offel),Yakiniku (BBQ Beef),3.51,38,35.0024230082148,135.75784462645,Horumon (BBQ Offel) Yakiniku (BBQ Beef),￥4000,￥4999,,
+709,710,Iori  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Seafood,3.26,13,35.0132223345902,135.765851754587,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+710,711,Kankokusakuratei  ,Nishioji,Yakiniku (BBQ Beef),Creative cuisine,3.27,14,34.9847155240316,135.726177750904,Yakiniku (BBQ Beef) Creative cuisine,￥3000,￥3999,,
+711,712,Norumandhi  ,Kyoto Shiyakusho Mae,French,Mediterranean,3.55,38,35.0104171424006,135.769476860457,French Mediterranean,￥6000,￥7999,￥2000,￥2999
+712,713,Rokurokuato  ,Saiin,Izakaya (Tavern),Seafood,3.46,21,35.0025270378026,135.731076523987,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+713,714,Sagano  ,Arashiyama,Tofu,Yuba,3.58,129,35.0145008935708,135.674644946234,Tofu Yuba,￥3000,￥3999,,
+714,715,Kaosusupaisudaina  ,Kyoto Shiyakusho Mae,Curry (other),Dining bar,3.35,36,35.007849877303,135.767204389609,Curry (other) Dining bar,￥1000,￥1999,￥1000,￥1999
+715,716,Erushimmachi  ,Shijo,French,Italian,3.44,15,35.0015781443615,135.756810819334,French Italian,￥5000,￥5999,￥2000,￥2999
+716,717,Ginzaraion  ,Kyoto,Beer,beer restaurant,3.08,30,34.9835920741988,135.76033691016,Beer beer restaurant,￥3000,￥3999, ,￥999
+717,718,kyouyakinikukikyou  ,Karasuma Oike,Yakiniku (BBQ Beef),Izakaya (Tavern),3.24,33,35.0088335157469,135.758889757072,Yakiniku (BBQ Beef) Izakaya (Tavern),￥5000,￥5999, ,￥999
+718,719,Robatasushihotaru  ,Karasuma Oike,Robatayaki,Seafood,3.38,40,35.0086715534028,135.758973836508,Robatayaki Seafood,￥4000,￥4999, ,￥999
+719,720,nikubaruginjirou  ,Kyoto,Bar,Italian,3.44,32,34.9891442695895,135.760994099947,Bar Italian,￥3000,￥3999, ,￥999
+720,721,Tanuki  ,Sanjo,Izakaya (Tavern),Creative cuisine,3.0,10,35.0075874508759,135.769809463118,Izakaya (Tavern) Creative cuisine,￥2000,￥2999,,
+721,722,Arashiyamamitate  ,Arashiyama,French,Kyoto Cuisine,3.66,30,35.0151700502421,135.678805560756,French Kyoto Cuisine,￥10000,￥14999,￥5000,￥5999
+722,723,Gansochikaranikumiyoshi  ,Nijo,Yakiniku (BBQ Beef),Izakaya (Tavern),3.07,24,35.0077971378627,135.743959180401,Yakiniku (BBQ Beef) Izakaya (Tavern),￥3000,￥3999,,
+723,724,Rakuzouutage  ,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),3.02,8,34.9879079960651,135.760028403735,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,,
+724,725,Kyoutomamehachi  ,Gion Shijo,Kyoto Cuisine,Tofu,3.08,22,35.0051035714978,135.771046696951,Kyoto Cuisine Tofu,￥4000,￥4999,￥1000,￥1999
+725,726,Garejisankyukafe  ,Uzumasa Tenjingawa,Cafe,Izakaya (other),3.03,7,35.0138716760388,135.716223346325,Cafe Izakaya (other),￥2000,￥2999,￥2000,￥2999
+726,727,Membou  ,Kyoto Shiyakusho Mae,Kaiseki (Traditional Japanese),Udon Suki,3.11,15,35.0115731561825,135.770983626544,Kaiseki (Traditional Japanese) Udon Suki,￥4000,￥4999,,
+727,728,Masohohanare  ,Kyoto,Izakaya (Tavern),Seafood,3.18,10,34.9877488173389,135.758363271575,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+728,729,Yumeya  ,Kyoto Shiyakusho Mae,Okonomiyaki,Chow Mein Noodle,3.55,73,35.0136062993242,135.772545069919,Okonomiyaki Chow Mein Noodle,￥1000,￥1999,,
+729,730,Giontakahashi  ,Gion Shijo,Kappo (Traditional Japanese),Fugu (Blowfish),3.57,9,35.0022297711758,135.774422215596,Kappo (Traditional Japanese) Fugu (Blowfish),￥10000,￥14999,,
+730,731,Ranka  ,Kawaramachi,Bistro,French,3.58,48,35.0041686153007,135.767829229431,Bistro French,￥6000,￥7999,￥2000,￥2999
+731,732,Hakatamotsunabefukuya  ,Kawaramachi,Motsu Nabe (Offel Hot Pot),Izakaya (Tavern),3.03,15,35.0045881939504,135.769811972536,Motsu Nabe (Offel Hot Pot) Izakaya (Tavern),￥3000,￥3999,,
+732,733,Ramenhikosaku  ,Imadegawa,Ramen,Dumplings,3.51,62,35.0296805403641,135.748011367353,Ramen Dumplings, ,￥999, ,￥999
+733,734,Shunsaisousakubifferoan  ,Yawatashi,Buffet style,Shabu Shabu (Japanese Steamboat),3.0,21,34.8613317379472,135.717111978941,Buffet style Shabu Shabu (Japanese Steamboat),￥2000,￥2999,￥1000,￥1999
+734,735,Tempurabaruharuichi  ,Karasuma Oike,Tempura,Bar,3.3,6,35.0100398265589,135.761806681504,Tempura Bar,￥2000,￥2999,,
+735,736,Tankumakitamise  ,Kawaramachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.59,74,35.0052360395964,135.770031497391,Kyoto Cuisine Kaiseki (Traditional Japanese),￥20000,￥29999,￥6000,￥7999
+736,737,Miho  ,Nishioji,Izakaya (Tavern),Okinawan Cuisine,3.23,7,34.9805852290329,135.731705537544,Izakaya (Tavern) Okinawan Cuisine,￥3000,￥3999,,
+737,738,Tempurakawatatsu  ,Katsuragawa,Tempura,Kaiseki (Traditional Japanese),3.56,40,34.9649628122864,135.720321924459,Tempura Kaiseki (Traditional Japanese),￥5000,￥5999,￥3000,￥3999
+738,739,Gyaatei  ,Arashiyama,Buffet style,Sushi,3.51,72,35.0154116671077,135.677433996873,Buffet style Sushi,￥2000,￥2999,,
+739,740,Ryuumon  ,Mototanaka,Sichuan Cuisine,Dim sum,3.08,26,35.0284157584058,135.784554779548,Sichuan Cuisine Dim sum,￥2000,￥2999, ,￥999
+740,741,Yakinikudaisen  ,Saiin,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.0,8,35.0021690441708,135.732429483662,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥5000,￥5999,,
+741,742,Erupojo  ,Kyoto,Spain,Pizza,3.2,42,34.9894019378795,135.760018980204,Spain Pizza,￥4000,￥4999,,
+742,743,Man  ,Kyoto Shiyakusho Mae,Sushi,Kappo (Traditional Japanese),3.06,3,35.0080845468479,135.765625621032,Sushi Kappo (Traditional Japanese),￥15000,￥19999,￥8000,￥9999
+743,744,Baoku  ,Karasuma,Bar,Wine bar,3.08,28,35.0028606021586,135.762247808746,Bar Wine bar,￥3000,￥3999,,
+744,745,Arashiyamakohakudou  ,Arashiyama,French,Cafe,3.07,27,35.0179455368515,135.676372408388,French Cafe,￥2000,￥2999,￥1000,￥1999
+745,746,Shinshin  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.49,20,35.0077748280468,135.763924943199,Izakaya (Tavern) Seafood,￥4000,￥4999,,
+746,747,Icchou  ,Gion Shijo,Kyoto Cuisine,Nihonshu (Japanese sake),3.02,1,35.0048613734925,135.770950049465,Kyoto Cuisine Nihonshu (Japanese sake),￥5000,￥5999,,
+747,748,Shusaishokubouichi  ,Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.22,50,35.0043758971916,135.756611818158,Kyoto Cuisine Kaiseki (Traditional Japanese),￥5000,￥5999,￥1000,￥1999
+748,749,supeimbarurapaera  ,Matsugasaki,Spain,Bar,3.28,10,35.0514792809741,135.777590129409,Spain Bar,￥3000,￥3999,￥1000,￥1999
+749,750,Gimmiyananairo  ,Omiya,Izakaya (Tavern),Kappo (Traditional Japanese),3.06,7,35.0025121416123,135.752831106846,Izakaya (Tavern) Kappo (Traditional Japanese),￥4000,￥4999,￥4000,￥4999
+750,751,Marugameseimen  ,Kyoto Shiyakusho Mae,Udon,,3.07,45,35.0081582070578,135.768887568959,Udon nan, ,￥999, ,￥999
+751,752,Ramenfuji  ,Kiyomizu Gojo,Ramen,,3.16,34,34.995584586635,135.770873816247,Ramen nan, ,￥999, ,￥999
+752,753,Kyoutogionkawamuraryourihei  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.0,3,35.0052275316722,135.775886844825,Kyoto Cuisine Kaiseki (Traditional Japanese),￥5000,￥5999,￥2000,￥2999
+753,754,Sentoro  ,Kyoto,Italian,Restaurants (other),3.1,24,34.9893344838471,135.758522352023,Italian Restaurants (other),￥4000,￥4999,,
+754,755,Giommikaku  ,Gion Shijo,Steak,Sukiyaki,3.1,21,35.0051385440526,135.772653102439,Steak Sukiyaki,￥15000,￥19999,￥15000,￥19999
+755,756,Enyanishiki  ,Karasuma,Izakaya (Tavern),Oden,3.12,37,35.005518623994,135.76282280641,Izakaya (Tavern) Oden,￥3000,￥3999, ,￥999
+756,757,Kampaiboupuruda  ,Kyoto,Korean cuisine,Yakiniku (BBQ Beef),3.42,27,34.9827149389651,135.759945871909,Korean cuisine Yakiniku (BBQ Beef),￥3000,￥3999,,
+757,758,Menshoutakamatsu  ,Karasuma,Ramen,Tsukemen,3.07,34,35.0034213566254,135.761166483843,Ramen Tsukemen, ,￥999, ,￥999
+758,759,Kyounooheso  ,Kawaramachi,Izakaya (Tavern),,3.51,13,35.0054803952062,135.766442062016,Izakaya (Tavern) nan,￥3000,￥3999,,
+759,760,Zen  ,Demachiyanagi,Izakaya (Tavern),Yakitori (Grilled chicken),3.05,5,35.0287294079984,135.772775743355,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,,
+760,761,Aburiya  ,Higashi Maizuru,Izakaya (Tavern),Oden,3.05,1,35.4741357374558,135.396293585356,Izakaya (Tavern) Oden,￥3000,￥3999,,
+761,762,kodawaritamagosemmontentamagoya  ,Arashiyama Torokko Station,Cafe,Japanese food (other),3.15,22,35.0197263907298,135.672129794284,Cafe Japanese food (other), ,￥999,,
+762,763,Tenjiyuen  ,Saiin,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.46,12,35.0041542825655,135.731132506908,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999,,
+763,764,Rinku  ,Kyoto Shiyakusho Mae,Fowl,Izakaya (Tavern),3.27,23,35.0092708784126,135.769608291207,Fowl Izakaya (Tavern),￥2000,￥2999,,
+764,765,Nishikiichiha  ,Kawaramachi,Café / coffee shop (and others),Sweets,3.46,44,35.0049976617266,135.766022119118,Café / coffee shop (and others) Sweets,￥1000,￥1999,￥1000,￥1999
+765,766,Kushiageadachi  ,Kitaoji,Kushi-age (Fried Skewer),Izakaya (Tavern),3.07,6,35.0424026894571,135.755312621546,Kushi-age (Fried Skewer) Izakaya (Tavern),￥4000,￥4999,,
+766,767,Haiborubakyoutoichikyunisan  ,Gion Shijo,Izakaya (other),Bar,3.32,38,35.0036689978727,135.77076928604,Izakaya (other) Bar,￥2000,￥2999,￥1000,￥1999
+767,768,Washokumai  ,Kyoto,Tempura,Sushi,3.0,9,34.983868728672,135.761332925814,Tempura Sushi,￥3000,￥3999,￥1000,￥1999
+768,769,Kyoutonanajouyakinikusakabayamadaruma  ,Shichijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06,11,34.9894060008253,135.766293370015,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥4000,￥4999,,
+769,770,nikubaruandohorumonnabetaigu  ,Kyoto Shiyakusho Mae,Bar,Motsu Nabe (Offel Hot Pot),3.04,2,35.0116789722693,135.770644205412,Bar Motsu Nabe (Offel Hot Pot),￥3000,￥3999,￥1000,￥1999
+770,771,Itoukyuuemon  ,Uji,Sweets,Japan tea shoppe,3.58,380,34.8965491745695,135.808756618744,Sweets Japan tea shoppe, ,￥999,,
+771,772,Kantonoryouritakeka  ,Gion Shijo,Chinese,Cantonese Cuisine,3.3,27,35.0058738341743,135.774898841566,Chinese Cantonese Cuisine,￥3000,￥3999,,
+772,773,Chikurin  ,Uji,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.04,5,34.8854298668158,135.796201506731,Kyoto Cuisine Kaiseki (Traditional Japanese),￥8000,￥9999,￥3000,￥3999
+773,774,Satsumayakinikukurozakurakurozakura  ,Uji,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.42,13,34.8829227139108,135.800720135782,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥4000,￥4999,￥1000,￥1999
+774,775,Takasegawa  ,Gion Shijo,Sumibiyaki,Yakitori (Grilled chicken),3.6,43,35.0024738397025,135.770298269074,Sumibiyaki Yakitori (Grilled chicken),￥5000,￥5999,,
+775,776,Hairaitoshiyokudou  ,Yamanouchi,table d'hôte,Western Cuisine,3.08,41,35.010798916133,135.723050340666,table d'hôte Western Cuisine, ,￥999, ,￥999
+776,777,Kikusui  ,Gion Shijo,Western Cuisine,French,3.18,82,35.0039806574997,135.772274702222,Western Cuisine French,￥3000,￥3999,￥1000,￥1999
+777,778,Kimukatsu  ,Shijo,Tonkatsu (Pork cutlet),Sandwich,3.08,86,35.0031524608191,135.759123888083,Tonkatsu (Pork cutlet) Sandwich,￥1000,￥1999,￥1000,￥1999
+778,779,Kafemanowaru  ,Saiin,Italian,,3.08,21,35.0025111378625,135.732643680357,Italian nan,￥2000,￥2999, ,￥999
+779,780,Purejiru  ,Kyoto,Buffet style,,3.15,68,34.9837908653969,135.755961431057,Buffet style nan,￥4000,￥4999,￥2000,￥2999
+780,781,Sumibiyakitorikajian  ,Nagaokakyo,Yakitori (Grilled chicken),Shochu (Japanese spirits),3.03,8,34.9226045379028,135.699804179572,Yakitori (Grilled chicken) Shochu (Japanese spirits),￥2000,￥2999, ,￥999
+781,782,Kazamidori  ,Karasuma Oike,Izakaya (Tavern),Yakitori (Grilled chicken),3.0,6,35.0074586959799,135.76078938483,Izakaya (Tavern) Yakitori (Grilled chicken),￥2000,￥2999, ,￥999
+782,783,SPOON  ,Karasuma,Dining bar,Japanese food (other),3.18,39,35.0028794927772,135.762462512264,Dining bar Japanese food (other),￥3000,￥3999,,
+783,784,Isobe  ,Higashiyama,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.06,12,35.0029763063521,135.782180189157,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥6000,￥7999,￥3000,￥3999
+784,785,Sukairaunjikuu  ,Kyoto,Bar,Lounge,3.09,56,34.9875874625536,135.759327643357,Bar Lounge,￥2000,￥2999, ,￥999
+785,786,Kaiuntei  ,Ogura,Yakiniku (BBQ Beef),Korean cuisine,3.05,19,34.9058174718317,135.783932142574,Yakiniku (BBQ Beef) Korean cuisine,￥3000,￥3999,￥1000,￥1999
+786,787,Honkedaiichiasahi  ,Kyoto,Ramen,Dumplings,3.6,1319,34.9866951135566,135.762508253626,Ramen Dumplings, ,￥999, ,￥999
+787,788,Kichisen  ,Demachiyanagi,Kaiseki (Traditional Japanese),,4.19,79,35.0357972382644,135.771352202831,Kaiseki (Traditional Japanese) nan,￥20000,￥29999,￥10000,￥14999
+788,789,Hisago  ,Gion Shijo,Oyako-don (Chicken Bowl),Soba,3.54,180,35.0006025215866,135.778793760794,Oyako-don (Chicken Bowl) Soba, ,￥999, ,￥999
+789,790,shikimanzenhanahana  ,Nijo,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.09,14,35.0109202388192,135.743091528593,Izakaya (Tavern) Motsu Nabe (Offel Hot Pot),￥3000,￥3999,,
+790,791,Gurumatei  ,Shin Tanabe,Okonomiyaki,Teppanyaki,3.05,4,34.8199447868556,135.77229289628,Okonomiyaki Teppanyaki,￥2000,￥2999,,
+791,792,Kappouiimori  ,Gion Shijo,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.52,15,35.0051203246769,135.776102109662,Kappo (Traditional Japanese) Kaiseki (Traditional Japanese),￥8000,￥9999,￥4000,￥4999
+792,793,barchetta  ,Gojo,Italian,Wine bar,3.43,29,34.9987845762145,135.758963107573,Italian Wine bar,￥3000,￥3999,,
+793,794,Ajinomeimon  ,Tambaguchi,Ramen,Dumplings,3.19,55,34.9907884382837,135.73937276434,Ramen Dumplings, ,￥999, ,￥999
+794,795,Nagagutsutei  ,Jingu Marutamachi,Pasta,Pizza,3.0,21,35.0152739592173,135.776008038876,Pasta Pizza,￥3000,￥3999,￥2000,￥2999
+795,796,Ishise  ,Fushimi Momoyama,Kyoto Cuisine,Kappo (Traditional Japanese),3.08,13,34.9315926940412,135.763654862084,Kyoto Cuisine Kappo (Traditional Japanese),￥4000,￥4999,,
+796,797,Apikaruinkyouto  ,Shugakuin,Ryokan,Kaiseki (Traditional Japanese),3.06,3,35.0522285701241,135.789190520388,Ryokan Kaiseki (Traditional Japanese),￥3000,￥3999,￥2000,￥2999
+797,798,Hanakushi  ,Kyoto,Kushi-age (Fried Skewer),Izakaya (Tavern),3.53,67,34.9893708415906,135.756961924387,Kushi-age (Fried Skewer) Izakaya (Tavern),￥2000,￥2999,,
+798,799,Gionyuyama  ,Sanjo Keihan,Kaiseki (Traditional Japanese),Kappo (Traditional Japanese),3.51,23,35.0056561108224,135.776681481321,Kaiseki (Traditional Japanese) Kappo (Traditional Japanese),￥8000,￥9999,￥5000,￥5999
+799,800,Gioneguchi  ,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,3.17,9,35.0048317207206,135.774744457925,Kappo (Traditional Japanese) Kyoto Cuisine,￥8000,￥9999,,
+800,801,Sumibitowainkyoutoekimaeten  ,Kyoto,Bar,Italian,3.49,22,34.9894509029149,135.760962977303,Bar Italian,￥4000,￥4999,,
+801,802,Susumevaikingubaikingu  ,Yawatashi,Buffet style,Yakiniku (BBQ Beef),3.03,21,34.8640014281627,135.722566386502,Buffet style Yakiniku (BBQ Beef),￥2000,￥2999,￥1000,￥1999
+802,803,Jounanen  ,Takeda,Chinese,Bento (Lunch box),3.15,25,34.9474104082993,135.745558692252,Chinese Bento (Lunch box),￥2000,￥2999, ,￥999
+803,804,shunsairyoushin  ,Fushimi Momoyama,Seafood,Izakaya (Tavern),3.33,6,34.9316382430316,135.763557923593,Seafood Izakaya (Tavern),￥4000,￥4999,￥2000,￥2999
+804,805,Shourenkanyoshinoya  ,  Kyotango,Ryokan,Crab,3.55,24,35.7353030921031,135.094283726773,Ryokan Crab,￥30000,,￥10000,￥14999
+805,806,pino  ,Matsugasaki,Italian,Cafe,3.07,48,35.051766712528,135.775431684322,Italian Cafe,￥3000,￥3999,￥1000,￥1999
+806,807,Kyoumachishizuku  ,Kyoto,Izakaya (Tavern),Seafood,3.05,5,34.9879085515176,135.760025903917,Izakaya (Tavern) Seafood,￥3000,￥3999,,
+807,808,nihonshutoobanzainokyousakabamitoki  ,Shijo,Izakaya (Tavern),Kyoto Cuisine,3.12,16,35.0026158328091,135.758050946342,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+808,809,Koudaijihashiba  ,Gion Shijo,Kyoto Cuisine,Tempura,3.23,31,35.0006616989386,135.779767843839,Kyoto Cuisine Tempura,￥2000,￥2999,￥2000,￥2999
+809,810,Ryuunohige  ,Kyoto Shiyakusho Mae,Kyoto Cuisine,French,3.7,70,35.0102810436345,135.769350210574,Kyoto Cuisine French,￥5000,￥5999,￥3000,￥3999
+810,811,nikutowaimbaruwaraku  ,Kyoto,Bar,Spain,3.52,26,34.989430054661,135.759981115362,Bar Spain,￥3000,￥3999, ,￥999
+811,812,Kyoutogontaro  ,Kawaramachi,Udon Suki,Soba,3.59,151,35.0043896605496,135.765412197765,Udon Suki Soba,￥5000,￥5999,￥1000,￥1999
+812,813,Kuragarimasa  ,Gion Shijo,Dining bar,Motsu Nabe (Offel Hot Pot),3.44,8,35.0046520022495,135.773858706427,Dining bar Motsu Nabe (Offel Hot Pot),￥5000,￥5999,￥1000,￥1999
+813,814,Kirarazaka  ,Matsuiyamate,Izakaya (Tavern),Creative cuisine,3.08,8,34.830963986712,135.730349761198,Izakaya (Tavern) Creative cuisine,￥3000,￥3999,￥1000,￥1999
+814,815,Ryuumon  ,Higashiyama,Chinese,Sichuan Cuisine,3.09,36,35.0140770189293,135.78481930665,Chinese Sichuan Cuisine,￥2000,￥2999, ,￥999
+815,816,Minamiyakankokushokudou  ,Shijo,Korean cuisine,Korean hot pot,3.09,13,35.0013809687296,135.758270707169,Korean cuisine Korean hot pot,￥3000,￥3999, ,￥999
+816,817,Kyouya  ,Gion Shijo,Kaiseki (Traditional Japanese),Angler,3.04,4,35.0059793457685,135.773028158735,Kaiseki (Traditional Japanese) Angler,￥10000,￥14999,￥5000,￥5999
+817,818,Giwommorikou  ,Higashiyama,Cantonese Cuisine,Dim sum,3.5,37,35.0076426054926,135.778998975169,Cantonese Cuisine Dim sum,￥4000,￥4999,￥1000,￥1999
+818,819,Sakaguratamanohikari  ,Karasuma,Izakaya (Tavern),Mizutaki,3.05,6,35.0027023136723,135.763846016636,Izakaya (Tavern) Mizutaki,￥2000,￥2999, ,￥999
+819,820,Itsuraku  ,Gion Shijo,Izakaya (Tavern),Kyoto Cuisine,3.5,19,35.0046788897271,135.770762017924,Izakaya (Tavern) Kyoto Cuisine,￥4000,￥4999,,
+820,821,Teppen  ,Momoyamagoryomae,Okonomiyaki,Chow Mein Noodle,3.06,11,34.9351298049022,135.763036139502,Okonomiyaki Chow Mein Noodle,￥1000,￥1999, ,￥999
+821,822,Nijou  ,Nijojo Mae,Teppanyaki,Steak,3.06,16,35.0124527439117,135.752767321126,Teppanyaki Steak,￥8000,￥9999,￥3000,￥3999
+822,823,Giwontokiwa  ,Sanjo Keihan,Soba,Udon,3.6,106,35.0057197060829,135.776163465858,Soba Udon,￥1000,￥1999,￥1000,￥1999
+823,824,Arufakafe  ,Sanjo,Dining bar,Bar,3.04,3,35.0095647476485,135.770282666114,Dining bar Bar,￥2000,￥2999,,
+824,825,Kaiuntei  ,Ogura,Korean cuisine,Yakiniku (BBQ Beef),3.06,22,34.894873056744,135.782205845398,Korean cuisine Yakiniku (BBQ Beef),￥3000,￥3999,￥1000,￥1999
+825,826,Bisutoroya  ,Kyoto,Izakaya (Tavern),Bistro,3.0,3,34.9879146620188,135.760028403428,Izakaya (Tavern) Bistro,￥4000,￥4999,￥3000,￥3999
+826,827,THE AGLIO GARDEN  ,Gion Shijo,Dining bar,Creative cuisine,3.03,5,35.0047167191581,135.77734160379,Dining bar Creative cuisine,￥3000,￥3999,,
+827,828,Ichiyoshi  ,Kyotanabe,Yakiniku (BBQ Beef),Izakaya (Tavern),3.5,19,34.8195206204722,135.769711741285,Yakiniku (BBQ Beef) Izakaya (Tavern),￥4000,￥4999,,
+828,829,Yukari  ,Shijo,Chinese,Izakaya (Tavern),3.32,8,35.0017146378705,135.756372080332,Chinese Izakaya (Tavern),￥3000,￥3999, ,￥999
+829,830,RH Cafe  ,Kawaramachi,Cafe,,3.39,31,35.0067914170355,135.769358703872,Cafe nan,￥1000,￥1999,￥1000,￥1999
+830,831,Suiba  ,Kyoto Shiyakusho Mae,Stand Bar,Dining bar,3.55,50,35.0074579330962,135.764817939183,Stand Bar Dining bar,￥1000,￥1999,,
+831,832,menkiya  ,Kawaramachi,Ramen,Chinese,3.08,11,35.0062467292621,135.76799550883,Ramen Chinese,￥1000,￥1999, ,￥999
+832,833,Kinkao  ,Shichijo,Thailand cooking,Thai Curry,3.55,74,34.9894137825205,135.766565291517,Thailand cooking Thai Curry,￥2000,￥2999,￥1000,￥1999
+833,834,Ujisoukokoro  ,Uji,Dining bar,Creative cuisine,3.07,25,34.8902875198403,135.802902393235,Dining bar Creative cuisine,￥3000,￥3999,￥1000,￥1999
+834,835,Domadoma  ,Sanjo,Izakaya (Tavern),Yakitori (Grilled chicken),3.02,29,35.0078623510651,135.770673447954,Izakaya (Tavern) Yakitori (Grilled chicken),￥3000,￥3999,,
+835,836,Chikyuuizakayashibuya  ,Nagitsuji,Izakaya (Tavern),Japanese food (other),3.0,10,34.971088796966,135.814206900825,Izakaya (Tavern) Japanese food (other),￥2000,￥2999, ,￥999
+836,837,Ginzaraion  ,Shijo,Dining bar,Beer,3.03,21,35.0034618678704,135.758877783165,Dining bar Beer,￥4000,￥4999, ,￥999
+837,838,ORTO  ,Karasuma Oike,Innovative cuisine,Fusion cuisine,4.06,53,35.0079907960238,135.75705300397,Innovative cuisine Fusion cuisine,￥8000,￥9999,￥4000,￥4999
+838,839,tsujiriheehonten  ,Uji,Parfait,Japan tea shoppe,3.54,116,34.8894730711688,135.7976731428,Parfait Japan tea shoppe,￥1000,￥1999,￥1000,￥1999
+839,840,Haroukithisaryou  ,Gion Shijo,Cafe,Kyoto Cuisine,3.53,31,34.998884123475,135.780465367753,Cafe Kyoto Cuisine,￥1000,￥1999,,
+840,841,Minamiyawagyuudou  ,Kitaoji,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.04,5,35.0571117378324,135.746977480898,Yakiniku (BBQ Beef) Horumon (BBQ Offel),￥3000,￥3999,,
+841,842,Toretatedaininguyagyuu  ,Narayama,Kaiseki (Traditional Japanese),Izakaya (Tavern),3.27,17,34.715817800493,135.83199384343,Kaiseki (Traditional Japanese) Izakaya (Tavern),￥3000,￥3999,￥1000,￥1999
+842,843,Itoudainingu  ,Gion Shijo,Teppanyaki,Steak,3.33,18,35.0054405366251,135.77429418951,Teppanyaki Steak,￥8000,￥9999,￥3000,￥3999
+843,844,Saradanomisesancho  ,Fushimi Momoyama,Hamburger Steak,Western (Others),3.08,72,34.9315754727825,135.763604589272,Hamburger Steak Western (Others),￥1000,￥1999,￥1000,￥1999
+844,845,eruku  ,Kawaramachi,Pancake,Cafe,3.53,62,35.0059392645602,135.768133567076,Pancake Cafe,￥1000,￥1999, ,￥999
+845,846,Teinojikafe  ,Kyoto Shiyakusho Mae,Cafe,Coffee shoppe,3.55,25,35.0130740908337,135.770072244235,Cafe Coffee shoppe,￥1000,￥1999, ,￥999
+846,847,Sumibiyakitorikou  ,Kawaramachi,Yakitori (Grilled chicken),Izakaya (Tavern),3.02,4,35.0018180788389,135.76564022105,Yakitori (Grilled chicken) Izakaya (Tavern),￥2000,￥2999,,
+847,848,Maboroshinochuukasobakatouyashijounibojirou  ,Shijo,Ramen,Chinese,3.51,131,35.0034554557877,135.757510674776,Ramen Chinese, ,￥999, ,￥999
+848,849,Kyouryouriujigawaryokan  ,Uji,Ryokan,,3.04,18,34.8920673823658,135.805930948654,Ryokan nan,￥1000,￥1999,,
+849,850,Obanzaitatsunosuke  ,Kawaramachi,Japanese food (other),Izakaya (Tavern),3.3,6,35.0047219885476,135.770177423516,Japanese food (other) Izakaya (Tavern),￥3000,￥3999,,
+850,851,kyounosozaiyatoku  ,Kujo,Izakaya (Tavern),Dining bar,3.07,7,34.9819586245588,135.759578715001,Izakaya (Tavern) Dining bar,￥3000,￥3999,,
+851,852,Kankokusakuratei  ,Shijo,Yakiniku (BBQ Beef),Korean cuisine,3.16,9,35.0014045794161,135.758390973872,Yakiniku (BBQ Beef) Korean cuisine,￥3000,￥3999,,
+852,853,Shisen  ,Kyoto,Sichuan Cuisine,Cantonese Cuisine,3.08,34,34.9837897543949,135.755960875599,Sichuan Cuisine Cantonese Cuisine,￥6000,￥7999,￥2000,￥2999
+853,854,Barubera  ,Saiin,Italian,Pasta,3.09,21,35.0008519174627,135.729832260004,Italian Pasta,￥3000,￥3999,,
+854,855,Yubasen  ,Kokusaikaikan,Tofu,Yuba,3.51,30,35.0642764468812,135.789118305015,Tofu Yuba,￥3000,￥3999,￥2000,￥2999
+855,856,Ibushigin  ,Sanjo,Izakaya (Tavern),Dining bar,3.06,20,35.0102888839295,135.770971237848,Izakaya (Tavern) Dining bar,￥4000,￥4999,,
+856,857,Irujeko  ,Shijo,Italian,Pasta,3.52,8,35.0026302136653,135.75533810213,Italian Pasta,￥4000,￥4999,,
+857,858,Anju  ,Arashiyama,Tofu,Yuba,3.0,40,35.0174942169272,135.677135870192,Tofu Yuba,￥3000,￥3999,￥3000,￥3999
+858,859,Genkiya  ,Nagaokakyo,Izakaya (Tavern),Seafood,3.23,24,34.9228941702762,135.699487536109,Izakaya (Tavern) Seafood,￥3000,￥3999, ,￥999
+859,860,Gohanya  ,Karasuma Oike,Izakaya (Tavern),Dining bar,3.05,11,35.0100657151769,135.758682146292,Izakaya (Tavern) Dining bar,￥2000,￥2999, ,￥999
+860,861,Kyouwasabi  ,Fukakusa,Pork Shabu Shabu,Kyoto Cuisine,3.08,5,34.9613731933477,135.767864807966,Pork Shabu Shabu Kyoto Cuisine,￥2000,￥2999,￥1000,￥1999
+861,862,kyoutoebisuya  ,Kitaoji,Izakaya (Tavern),Oden,3.0,1,35.0433959052524,135.757470505848,Izakaya (Tavern) Oden,￥2000,￥2999,,
+862,863,Rakudaya  ,Saiin,Genghis Khan (BBQ Rum),Motsu Nabe (Offel Hot Pot),3.06,7,35.0023959184956,135.72980441345,Genghis Khan (BBQ Rum) Motsu Nabe (Offel Hot Pot),￥3000,￥3999,,
+863,864,Shouentei  ,Kiyomizu Gojo,Chinese,Ramen,3.14,19,34.9972875678983,135.777048780564,Chinese Ramen,￥1000,￥1999, ,￥999
+864,865,Nishikihenkotsu  ,Kawaramachi,Yakiniku (BBQ Beef),Izakaya (Tavern),3.51,29,35.0052281778042,135.765173567866,Yakiniku (BBQ Beef) Izakaya (Tavern),￥3000,￥3999,,
+865,866,Gyuukimura  ,Nagitsuji,Yakiniku (BBQ Beef),Sukiyaki,3.06,8,34.9748227697992,135.815589784031,Yakiniku (BBQ Beef) Sukiyaki,￥5000,￥5999,,
+866,867,Kafecherisshu  ,Marutamachi,Cafe,Sweets (and others),3.45,34,35.0134686623307,135.763859408711,Cafe Sweets (and others),￥1000,￥1999,￥1000,￥1999
+867,868,Masoho  ,Kyoto,Seafood,Robatayaki,3.35,77,34.9883998479957,135.757743848599,Seafood Robatayaki,￥4000,￥4999,,
+868,869,Kamogawatakashi  ,Jingu Marutamachi,Yakiniku (BBQ Beef),Kaiseki (Traditional Japanese),3.59,58,35.0158783299847,135.769525646838,Yakiniku (BBQ Beef) Kaiseki (Traditional Japanese),￥5000,￥5999,￥2000,￥2999
+869,870,IZAMA  ,Karasuma,Kyoto Cuisine,Creative cuisine,3.53,40,35.0065917754325,135.756848918666,Kyoto Cuisine Creative cuisine,￥4000,￥4999,￥1000,￥1999
+870,871,Kaisekihyouki  ,Karasuma Oike,Kappo (Traditional Japanese),Kyoto Cuisine,3.47,39,35.0074063648341,135.755702212052,Kappo (Traditional Japanese) Kyoto Cuisine,￥10000,￥14999,￥4000,￥4999
+871,872,miyazakikenhyuugashitsukadanoujou  ,Sanjo,Izakaya (Tavern),Fowl,3.03,22,35.0088442843889,135.771154849073,Izakaya (Tavern) Fowl,￥3000,￥3999,,
+872,873,Kyounojiyasaiitariampacchokone  ,Kyoto,Italian,Pasta,3.03,7,34.9893769011115,135.75404549965,Italian Pasta,￥2000,￥2999, ,￥999
+873,874,Kabochanotane  ,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,3.51,25,35.0039632057237,135.774928649282,Kappo (Traditional Japanese) Kyoto Cuisine,￥3000,￥3999,￥2000,￥2999
+874,875,Giwonyakinikushige  ,Gion Shijo,Yakiniku (BBQ Beef),Shabu Shabu (Japanese Steamboat),3.06,3,35.0041779249195,135.776070211256,Yakiniku (BBQ Beef) Shabu Shabu (Japanese Steamboat),￥10000,￥14999,,
+875,876,Taruhachi  ,Mototanaka,Izakaya (Tavern),Ramen,3.0,9,35.0311828856723,135.780160294884,Izakaya (Tavern) Ramen,￥3000,￥3999, ,￥999
+876,877,THE BUFFET STYLE SARA  ,Shijo,Buffet style,Creative cuisine,3.12,93,35.0031524608191,135.759123888083,Buffet style Creative cuisine,￥2000,￥2999,￥1000,￥1999
+877,878,Karafuneyakohiten  ,Kyoto Shiyakusho Mae,Traditional Café,Cafe,3.52,99,35.0084156766346,135.768817304364,Traditional Café Cafe, ,￥999, ,￥999
+878,879,Arashiyamataniguchi  ,Arashiyama,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.06,8,35.007197042578,135.680433014907,Kaiseki (Traditional Japanese) Kyoto Cuisine,￥8000,￥9999,￥5000,￥5999
+879,880,danieruzuaruba  ,Karasuma Oike,Italian,Dining bar,3.08,26,35.0105331154159,135.762281063839,Italian Dining bar,￥3000,￥3999,￥1000,￥1999
+880,881,Giongyuuzen  ,Gion Shijo,Shabu Shabu (Japanese Steamboat),Sukiyaki,3.06,18,35.0046428952082,135.777216483539,Shabu Shabu (Japanese Steamboat) Sukiyaki,￥3000,￥3999,,
+881,882,guridorufo-suitsuraku  ,Karasuma,Teppanyaki,Steak,3.06,8,35.006301867766,135.760359751551,Teppanyaki Steak,￥5000,￥5999,￥1000,￥1999
+882,883,Tatsumiya  ,Uji,Kyoto Cuisine,Hot Pot (other),3.07,20,34.8884761654939,135.809145225435,Kyoto Cuisine Hot Pot (other),￥8000,￥9999,￥3000,￥3999
+883,884,Okonomiyakitonchinkan  ,Kyoto Shiyakusho Mae,Okonomiyaki,Monjya yaki,3.05,28,35.0076926926099,135.768390409458,Okonomiyaki Monjya yaki,￥2000,￥2999,￥1000,￥1999
+884,885,Kifuneugenta  ,Kurama,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.54,55,35.1242945847518,135.763782368037,Kyoto Cuisine Kaiseki (Traditional Japanese),￥10000,￥14999,￥6000,￥7999
+885,886,teuchiudonishokuyabongu  ,Nishi Maizuru,Izakaya (Tavern),Udon,3.07,14,35.4461139524881,135.328732848371,Izakaya (Tavern) Udon,￥1000,￥1999,￥1000,￥1999
+886,887,umaimonyaki sun  ,Gion Shijo,Yakitori (Grilled chicken),Motsu Nabe (Offel Hot Pot),3.03,28,35.0056115677346,135.770761419477,Yakitori (Grilled chicken) Motsu Nabe (Offel Hot Pot),￥3000,￥3999, ,￥999
+887,888,Toritoyudoufuizakayaaogiya  ,Saiin,Izakaya (Tavern),Kyoto Cuisine,3.15,7,35.0041985270913,135.731156995901,Izakaya (Tavern) Kyoto Cuisine,￥3000,￥3999,,
+888,889,Menshoutakamatsu  ,Karasuma,Tsukemen,Ramen,3.58,203,35.0062610473475,135.76084915723,Tsukemen Ramen, ,￥999, ,￥999
+889,890,Wayang Bali  ,Kyoto Shiyakusho Mae,Indonesia cuisine,,3.04,15,35.0100349491136,135.768793045956,Indonesia cuisine nan,￥3000,￥3999,,
+890,891,Waraku  ,Fukuchiyama,Izakaya (Tavern),Kaiseki (Traditional Japanese),3.0,12,35.2989165773867,135.118340987517,Izakaya (Tavern) Kaiseki (Traditional Japanese),￥2000,￥2999, ,￥999
+891,892,YEBISU BAR  ,Kyoto,Beer bar,Bar,3.08,70,34.9881320046433,135.759215235111,Beer bar Bar,￥3000,￥3999, ,￥999
+892,893,Ibushiginkazuya  ,Kawaramachi,Bar,Nihonshu (Japanese sake),3.36,11,35.0064489588032,135.769652861876,Bar Nihonshu (Japanese sake),￥3000,￥3999,,
+893,894,Tenichi  ,Kyoto,Tempura,Ten-don (Tempura Bowl),3.51,52,34.9858865044589,135.757672025839,Tempura Ten-don (Tempura Bowl),￥6000,￥7999,￥2000,￥2999
+894,895,Rakuzenkakinuma  ,Jingu Marutamachi,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.1,9,35.0175901866382,135.777360379382,Kappo (Traditional Japanese) Kaiseki (Traditional Japanese),￥8000,￥9999,￥2000,￥2999
